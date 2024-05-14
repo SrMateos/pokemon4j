@@ -1,1 +1,2230 @@
-{"gen1ubers":{"dex":{"Persian":{"Slash":{"moves":["Slash","Hyper Beam","Thunderbolt","Bubble Beam"]}},"Alakazam":{"Standard":{"moves":["Thunder Wave","Seismic Toss","Psychic","Recover"]}},"Victreebel":{"Wrap":{"moves":["Wrap","Razor Leaf","Sleep Powder","Stun Spore"]}},"Golem":{"Explosion":{"moves":["Earthquake","Rock Slide","Explosion","Substitute"]}},"Slowbro":{"TobyBro (Amnesia)":{"moves":["Surf","Amnesia","Rest","Thunder Wave"]}},"Cloyster":{"Clamp":{"moves":["Clamp","Blizzard","Explosion","Rest"]}},"Gengar":{"Sleeper":{"moves":["Hypnosis","Night Shade","Thunderbolt","Explosion"]}},"Hypno":{"Lead Sleeper":{"moves":["Psychic","Hypnosis","Thunder Wave","Seismic Toss"]}},"Electrode":{"Explosion":{"moves":["Thunder Wave","Thunderbolt","Screech","Explosion"]}},"Exeggutor":{"Bulky Sleeper":{"moves":["Sleep Powder","Stun Spore","Psychic","Explosion"]}},"Rhydon":{"Standard":{"moves":["Earthquake","Rock Slide","Body Slam","Substitute"]}},"Chansey":{"Light Screen":{"moves":["Light Screen","Seismic Toss","Soft-Boiled","Thunder Wave"]},"Sing":{"moves":["Sing","Seismic Toss","Soft-Boiled","Thunder Wave"]}},"Starmie":{"Paralysis Lead":{"moves":["Thunder Wave","Recover","Psychic","Blizzard"]}},"Jynx":{"Sleep Lead":{"moves":["Lovely Kiss","Blizzard","Psychic","Counter"]}},"Tauros":{"Standard":{"moves":["Body Slam","Hyper Beam","Earthquake","Blizzard"]}},"Lapras":{"Confuse Ray":{"moves":["Blizzard","Thunderbolt","Confuse Ray","Body Slam"]},"Sing Lead":{"moves":["Sing","Blizzard","Thunderbolt","Hyper Beam"]}},"Jolteon":{"Paralysis Lead":{"moves":["Thunder Wave","Thunderbolt","Pin Missile","Double Kick"]}},"Snorlax":{"PhysLax (All-out Attacker)":{"moves":["Body Slam","Self-Destruct","Hyper Beam","Earthquake"]},"Reflect":{"moves":["Body Slam","Reflect","Rest","Earthquake"]}},"Aerodactyl":{"Defensive Wall":{"moves":["Reflect","Rest","Double-Edge","Fire Blast"]}},"Articuno":{"Bulky Attacker":{"moves":["Blizzard","Hyper Beam","Rest","Agility"]}},"Zapdos":{"Mixed Attacker":{"moves":["Thunderbolt","Drill Peck","Thunder Wave","Agility"]}},"Mewtwo":{"Standard":{"moves":["Amnesia","Psychic","Thunderbolt","Recover"]},"BooM2 (Self-Destruct)":{"moves":["Amnesia","Recover","Thunderbolt","Self-Destruct"]},"Staller":{"moves":["Amnesia","Thunderbolt","Flash","Recover"],"ivs":{"spa":26},"evs":{"hp":252,"atk":252,"def":252,"spa":8,"spd":252,"spe":252}}},"Mew":{"Traditional Sweeper":{"moves":["Swords Dance","Earthquake","Body Slam","Soft-Boiled"]},"GGMew (Reflect Sweeper)":{"moves":["Reflect","Swords Dance","Body Slam","Soft-Boiled"]},"Explosive Lure":{"moves":["Thunder Wave","Swords Dance","Body Slam","Explosion"]},"Lutrew / PaRaSiTe Mew (Transform)":{"moves":["Transform","Thunder Wave","Soft-Boiled","Reflect"]}},"Dragonite":{"Agility + Wrap":{"moves":["Agility","Wrap","Surf","Hyper Beam"]}}},"stats":{"Sandslash":{"Showdown Usage":{"level":100,"moves":["Earthquake","Swords Dance","Substitute","Sand Attack"]}},"Chansey":{"Showdown Usage":{"level":100,"moves":["Soft-Boiled","Thunder Wave","Ice Beam","Seismic Toss"]}},"Rhydon":{"Showdown Usage":{"level":100,"moves":["Earthquake","Rock Slide","Body Slam","Substitute"]}},"Exeggutor":{"Showdown Usage":{"level":100,"moves":["Sleep Powder","Psychic","Explosion","Stun Spore"]}},"Slowbro":{"Showdown Usage":{"level":100,"moves":["Amnesia","Rest","Thunder Wave","Surf"]}},"Snorlax":{"Showdown Usage":{"level":100,"moves":["Body Slam","Self-Destruct","Earthquake","Hyper Beam"]}},"Cloyster":{"Showdown Usage":{"level":100,"moves":["Explosion","Clamp","Blizzard","Rest"]}},"Tauros":{"Showdown Usage":{"level":100,"moves":["Hyper Beam","Body Slam","Earthquake","Blizzard"]}},"Mew":{"Showdown Usage":{"level":100,"moves":["Swords Dance","Soft-Boiled","Earthquake","Explosion"]}},"Jolteon":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Thunder Wave","Pin Missile","Double Kick"]}},"Alakazam":{"Showdown Usage":{"level":100,"moves":["Recover","Thunder Wave","Psychic","Seismic Toss"]}},"Dragonite":{"Showdown Usage":{"level":100,"moves":["Hyper Beam","Wrap","Agility","Blizzard"]}},"Mewtwo":{"Showdown Usage":{"level":100,"moves":["Amnesia","Recover","Psychic","Ice Beam"]}},"Hypno":{"Showdown Usage":{"level":100,"moves":["Hypnosis","Thunder Wave","Psychic","Counter"]}},"Gengar":{"Showdown Usage":{"level":100,"moves":["Hypnosis","Explosion","Night Shade","Thunderbolt"]}},"Zapdos":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Drill Peck","Thunder Wave","Agility"]}},"Jynx":{"Showdown Usage":{"level":100,"moves":["Lovely Kiss","Blizzard","Psychic","Counter"]}},"Starmie":{"Showdown Usage":{"level":100,"moves":["Recover","Thunder Wave","Blizzard","Surf"]}}}},"gen1ou":{"dex":{"Venusaur":{"Swords Dance":{"moves":["Sleep Powder","Razor Leaf","Swords Dance","Hyper Beam"]}},"Charizard":{"Swords Dance":{"moves":["Swords Dance","Hyper Beam","Earthquake","Slash"]}},"Raticate":{"Biggie Cheese (Super Fang)":{"moves":["Super Fang","Hyper Beam","Body Slam","Bubble Beam"]}},"Arbok":{"Wrapper":{"moves":["Glare","Wrap","Earthquake","Hyper Beam"]}},"Raichu":{"Mixed Attacker":{"moves":["Thunderbolt","Thunder Wave","Submission","Surf"]}},"Sandslash":{"Swords Dance":{"moves":["Swords Dance","Earthquake","Body Slam","Hyper Beam"]}},"Clefable":{"Status Spreader":{"moves":["Mega Kick","Hyper Beam","Blizzard","Thunder Wave"]},"Offensive":{"moves":["Blizzard","Body Slam","Hyper Beam","Thunderbolt"]},"Status Inducer":{"moves":["Blizzard","Thunder Wave","Sing","Thunderbolt"]}},"Persian":{"Slash":{"moves":["Slash","Hyper Beam","Bubble Beam","Thunderbolt"]}},"Poliwrath":{"Amnesia":{"moves":["Amnesia","Hydro Pump","Blizzard","Hypnosis"]}},"Alakazam":{"Standard":{"moves":["Psychic","Seismic Toss","Thunder Wave","Recover"]}},"Machamp":{"Wallbreaker":{"moves":["Low Kick","Body Slam","Hyper Beam","Earthquake"]}},"Victreebel":{"Standard":{"moves":["Sleep Powder","Wrap","Razor Leaf","Stun Spore"]},"Swords Dance":{"moves":["Swords Dance","Hyper Beam","Razor Leaf","Wrap"]}},"Golem":{"Explosion":{"moves":["Rock Slide","Earthquake","Body Slam","Explosion"]}},"Slowbro":{"TobyBro (Amnesia)":{"moves":["Amnesia","Surf","Thunder Wave","Rest"]}},"Dodrio":{"Agility Sweeper":{"moves":["Body Slam","Drill Peck","Hyper Beam","Agility"]}},"Cloyster":{"Standard":{"moves":["Clamp","Blizzard","Rest","Explosion"]}},"Gengar":{"Sleeper":{"moves":["Hypnosis","Thunderbolt","Night Shade","Explosion"]}},"Hypno":{"Double Status":{"moves":["Hypnosis","Thunder Wave","Psychic","Seismic Toss"]}},"Kingler":{"Swords Dance":{"moves":["Swords Dance","Hyper Beam","Body Slam","Crabhammer"]}},"Exeggutor":{"Sleeper":{"moves":["Sleep Powder","Psychic","Explosion","Double-Edge"]}},"Rhydon":{"Standard":{"moves":["Earthquake","Rock Slide","Body Slam","Substitute"]}},"Chansey":{"BoltBeam":{"moves":["Thunderbolt","Ice Beam","Soft-Boiled","Thunder Wave"]},"Sing":{"moves":["Sing","Ice Beam","Soft-Boiled","Thunder Wave"]},"Reflect":{"moves":["Reflect","Seismic Toss","Soft-Boiled","Thunder Wave"]}},"Kangaskhan":{"Wallbreaker":{"moves":["Body Slam","Hyper Beam","Earthquake","Surf"]}},"Starmie":{"Special Attacker":{"moves":["Recover","Thunder Wave","Blizzard","Psychic"]}},"Jynx":{"Lead Sleeper":{"moves":["Lovely Kiss","Blizzard","Psychic","Rest"]}},"Pinsir":{"Swords Dance":{"moves":["Swords Dance","Hyper Beam","Slash","Submission"]}},"Tauros":{"The Bull":{"moves":["Body Slam","Hyper Beam","Blizzard","Earthquake"]}},"Gyarados":{"Wallbreaker":{"moves":["Hydro Pump","Thunderbolt","Body Slam","Hyper Beam"]}},"Lapras":{"Standard":{"moves":["Blizzard","Thunderbolt","Hyper Beam","Sing"]}},"Jolteon":{"Offensive":{"moves":["Thunder Wave","Thunderbolt","Double Kick","Rest"]}},"Flareon":{"Mixed Attacker":{"moves":["Fire Blast","Body Slam","Hyper Beam","Fire Spin"]}},"Porygon":{"Wall":{"moves":["Recover","Thunder Wave","Ice Beam","Thunderbolt"]}},"Omastar":{"Tank":{"moves":["Hydro Pump","Ice Beam","Body Slam","Rest"]}},"Kabutops":{"Standard":{"moves":["Swords Dance","Slash","Hyper Beam","Surf"]}},"Snorlax":{"Reflect":{"moves":["Body Slam","Reflect","Rest","Ice Beam"]},"Physical Attacker":{"moves":["Body Slam","Hyper Beam","Self-Destruct","Earthquake"]},"Mixed Attacker":{"moves":["Body Slam","Blizzard","Amnesia","Rest"]}},"Articuno":{"Standard":{"moves":["Blizzard","Agility","Double-Edge","Hyper Beam"]}},"Zapdos":{"Mixed Attacker":{"moves":["Thunderbolt","Drill Peck","Thunder Wave","Agility"]}},"Moltres":{"Standard":{"moves":["Fire Blast","Hyper Beam","Agility","Fire Spin"]}},"Dragonite":{"Wrap":{"moves":["Wrap","Hyper Beam","Blizzard","Thunder Wave"]},"AgiliWrap":{"moves":["Agility","Wrap","Hyper Beam","Surf"]}}},"stats":{"Snorlax":{"Showdown Usage":{"level":100,"moves":["Body Slam","Rest","Reflect","Earthquake"]}},"Machamp":{"Showdown Usage":{"level":100,"moves":["Earthquake","Low Kick","Body Slam","Hyper Beam"]}},"Raichu":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Surf","Thunder Wave","Submission"]}},"Rhydon":{"Showdown Usage":{"level":100,"moves":["Earthquake","Rock Slide","Body Slam","Substitute"]}},"Lapras":{"Showdown Usage":{"level":100,"moves":["Blizzard","Thunderbolt","Sing","Confuse Ray"]}},"Slowbro":{"Showdown Usage":{"level":100,"moves":["Amnesia","Rest","Surf","Thunder Wave"]}},"Sandslash":{"Showdown Usage":{"level":100,"moves":["Earthquake","Swords Dance","Body Slam","Hyper Beam"]}},"Articuno":{"Showdown Usage":{"level":100,"moves":["Blizzard","Hyper Beam","Agility","Double-Edge"]}},"Golem":{"Showdown Usage":{"level":100,"moves":["Earthquake","Explosion","Rock Slide","Body Slam"]}},"Pinsir":{"Showdown Usage":{"level":100,"moves":["Swords Dance","Hyper Beam","Submission","Bind"]}},"Cloyster":{"Showdown Usage":{"level":100,"moves":["Explosion","Clamp","Blizzard","Rest"]}},"Tauros":{"Showdown Usage":{"level":100,"moves":["Body Slam","Hyper Beam","Blizzard","Earthquake"]}},"Chansey":{"Showdown Usage":{"level":100,"moves":["Soft-Boiled","Thunder Wave","Ice Beam","Thunderbolt"]}},"Exeggutor":{"Showdown Usage":{"level":100,"moves":["Psychic","Sleep Powder","Explosion","Stun Spore"]}},"Jolteon":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Thunder Wave","Double Kick","Pin Missile"]}},"Venusaur":{"Showdown Usage":{"level":100,"moves":["Razor Leaf","Sleep Powder","Hyper Beam","Swords Dance"]}},"Alakazam":{"Showdown Usage":{"level":100,"moves":["Psychic","Recover","Thunder Wave","Seismic Toss"]}},"Dragonite":{"Showdown Usage":{"level":100,"moves":["Wrap","Hyper Beam","Blizzard","Agility"]}},"Hypno":{"Showdown Usage":{"level":100,"moves":["Psychic","Thunder Wave","Rest","Hypnosis"]}},"Porygon":{"Showdown Usage":{"level":100,"moves":["Recover","Thunder Wave","Ice Beam","Thunderbolt"]}},"Victreebel":{"Showdown Usage":{"level":100,"moves":["Razor Leaf","Wrap","Sleep Powder","Stun Spore"]}},"Kingler":{"Showdown Usage":{"level":100,"moves":["Hyper Beam","Swords Dance","Crabhammer","Body Slam"]}},"Gengar":{"Showdown Usage":{"level":100,"moves":["Hypnosis","Explosion","Thunderbolt","Psychic"]}},"Dugtrio":{"Showdown Usage":{"level":100,"moves":["Earthquake","Rock Slide","Slash","Sand Attack"]}},"Persian":{"Showdown Usage":{"level":100,"moves":["Slash","Bubble Beam","Thunderbolt","Hyper Beam"]}},"Zapdos":{"Showdown Usage":{"level":100,"moves":["Drill Peck","Thunderbolt","Thunder Wave","Agility"]}},"Electrode":{"Showdown Usage":{"level":100,"moves":["Explosion","Thunderbolt","Thunder Wave","Thunder"]}},"Moltres":{"Showdown Usage":{"level":100,"moves":["Fire Blast","Hyper Beam","Fire Spin","Agility"]}},"Charizard":{"Showdown Usage":{"level":100,"moves":["Fire Blast","Earthquake","Swords Dance","Hyper Beam"]}},"Jynx":{"Showdown Usage":{"level":100,"moves":["Lovely Kiss","Psychic","Blizzard","Rest"]}},"Starmie":{"Showdown Usage":{"level":100,"moves":["Recover","Thunder Wave","Thunderbolt","Blizzard"]}}}},"gen1uu":{"dex":{"Venusaur":{"Sleeper":{"moves":["Razor Leaf","Body Slam","Sleep Powder","Toxic"]}},"Charizard":{"Swords Dance Wallbreaker":{"moves":["Swords Dance","Fire Blast","Earthquake","Body Slam"]}},"Blastoise":{"Bulky Attacker":{"moves":["Surf","Blizzard","Earthquake","Rest"]}},"Raticate":{"Super Fang":{"moves":["Super Fang","Hyper Beam","Body Slam","Blizzard"]}},"Arbok":{"Glare + Wrap":{"moves":["Glare","Wrap","Earthquake","Hyper Beam"]}},"Raichu":{"Agility Sweeper":{"moves":["Thunderbolt","Surf","Thunder Wave","Agility"]}},"Nidoking":{"Mixed Attacker":{"moves":["Thunderbolt","Blizzard","Earthquake","Body Slam"]}},"Clefable":{"Offensive Utility":{"moves":["Thunder Wave","Body Slam","Hyper Beam","Thunderbolt"]}},"Ninetales":{"Fire Spin Pivot":{"moves":["Fire Blast","Fire Spin","Body Slam","Confuse Ray"]}},"Dugtrio":{"Dugtrio":{"moves":["Earthquake","Rock Slide","Slash","Substitute"]},"Physical Attacker":{"moves":["Earthquake","Rock Slide","Slash","Toxic"]}},"Persian":{"Revenge Killer":{"moves":["Slash","Hyper Beam","Thunderbolt","Toxic"]}},"Golduck":{"Amnesia":{"moves":["Amnesia","Hydro Pump","Blizzard","Rest"]}},"Arcanine":{"Agility Sweeper":{"moves":["Agility","Body Slam","Hyper Beam","Fire Blast"]}},"Poliwrath":{"Poliwrath":{"moves":["Submission","Body Slam","Blizzard","Counter"]},"Bulky Sleeper":{"moves":["Hypnosis","Blizzard","Earthquake","Body Slam"]},"Amnesia":{"moves":["Amnesia","Surf","Blizzard","Rest"]}},"Kadabra":{"Standard":{"moves":["Psychic","Thunder Wave","Seismic Toss","Recover"]}},"Victreebel":{"Attacker":{"moves":["Razor Leaf","Stun Spore","Hyper Beam","Swords Dance"]}},"Tentacruel":{"Wrap Pivot":{"moves":["Wrap","Surf","Blizzard","Rest"]},"Swords Dance":{"moves":["Swords Dance","Surf","Wrap","Hyper Beam"]}},"Golem":{"Standard":{"moves":["Earthquake","Rock Slide","Substitute","Explosion"]}},"Rapidash":{"Fire Spin Breaker":{"moves":["Fire Blast","Fire Spin","Hyper Beam","Body Slam"]}},"Magneton":{"Bulky Special Attacker":{"moves":["Thunderbolt","Thunder Wave","Double-Edge","Rest"]}},"Dodrio":{"Physical Sweeper":{"moves":["Body Slam","Drill Peck","Hyper Beam","Agility"]}},"Dewgong":{"Defensive":{"moves":["Blizzard","Surf","Body Slam","Rest"]}},"Haunter":{"Haunter":{"moves":["Thunderbolt","Explosion","Psychic","Night Shade"]},"Sleeper":{"moves":["Hypnosis","Night Shade","Thunderbolt","Explosion"]}},"Electrode":{"Fast Attacker":{"moves":["Thunderbolt","Thunder Wave","Explosion","Screech"]}},"Tangela":{"Defensive Pivot":{"moves":["Sleep Powder","Stun Spore","Bind","Body Slam"]},"Defensive Growth":{"moves":["Sleep Powder","Stun Spore","Growth","Mega Drain"]}},"Kangaskhan":{"Kangaskhan":{"moves":["Body Slam","Hyper Beam","Earthquake","Rock Slide"]},"Wallbreaker":{"moves":["Body Slam","Hyper Beam","Earthquake","Rock Slide"]}},"Electabuzz":{"Offensive":{"moves":["Thunderbolt","Thunder Wave","Body Slam","Hyper Beam"]},"Offensive (old)":{"moves":["Thunder Wave","Thunderbolt","Body Slam","Psychic"]}},"Pinsir":{"Swords Dance Sweeper":{"moves":["Swords Dance","Hyper Beam","Slash","Bind"]}},"Gyarados":{"All-out Attacker":{"moves":["Body Slam","Blizzard","Hyper Beam","Thunderbolt"]}},"Vaporeon":{"Bulky Special Attacker":{"moves":["Surf","Blizzard","Body Slam","Rest"]}},"Porygon":{"Staller":{"moves":["Thunderbolt","Ice Beam","Thunder Wave","Recover"]}},"Omastar":{"Bulky Attacker":{"moves":["Hydro Pump","Body Slam","Seismic Toss","Rest"]},"Defensive":{"moves":["Surf","Blizzard","Body Slam","Rest"]}},"Kabutops":{"Mixed Sweeper":{"moves":["Hyper Beam","Slash","Blizzard","Swords Dance"]}},"Aerodactyl":{"Speed Utility":{"moves":["Double-Edge","Hyper Beam","Fire Blast","Toxic"]}},"Articuno":{"Agility Sweeper":{"moves":["Blizzard","Double-Edge","Hyper Beam","Agility"]}},"Dragonite":{"Wrap Pivot":{"moves":["Wrap","Thunder Wave","Blizzard","Body Slam"]},"PhysNite (Offensive)":{"moves":["Blizzard","Body Slam","Thunderbolt","Hyper Beam"]},"Agility Sweeper":{"moves":["Blizzard","Thunderbolt","Hyper Beam","Agility"]}}},"stats":{"Kadabra":{"Showdown Usage":{"level":100,"moves":["Psychic","Thunder Wave","Recover","Seismic Toss"]}},"Beedrill":{"Showdown Usage":{"level":100,"moves":["Hyper Beam","Agility","Swords Dance","Substitute"]}},"Poliwrath":{"Showdown Usage":{"level":100,"moves":["Amnesia","Surf","Blizzard","Rest"]}},"Machamp":{"Showdown Usage":{"level":100,"moves":["Earthquake","Body Slam","Rock Slide","Submission"]}},"Butterfree":{"Showdown Usage":{"level":100,"moves":["Psychic","Stun Spore","Flash","Substitute"]}},"Raichu":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Surf","Thunder Wave","Agility"]}},"Tangela":{"Showdown Usage":{"level":100,"moves":["Mega Drain","Growth","Stun Spore","Body Slam"]}},"Parasect":{"Showdown Usage":{"level":100,"moves":["Swords Dance","Stun Spore","Hyper Beam","Substitute"]}},"Aerodactyl":{"Showdown Usage":{"level":100,"moves":["Hyper Beam","Fire Blast","Double-Edge","Substitute"]}},"Raticate":{"Showdown Usage":{"level":100,"moves":["Super Fang","Blizzard","Thunderbolt","Quick Attack"]}},"Arcanine":{"Showdown Usage":{"level":100,"moves":["Fire Blast","Body Slam","Hyper Beam","Flamethrower"]}},"Omastar":{"Showdown Usage":{"level":100,"moves":["Blizzard","Rest","Body Slam","Surf"]}},"Venusaur":{"Showdown Usage":{"level":100,"moves":["Razor Leaf","Body Slam","Hyper Beam","Leech Seed"]}},"Articuno":{"Showdown Usage":{"level":100,"moves":["Blizzard","Agility","Hyper Beam","Double-Edge"]}},"Blastoise":{"Showdown Usage":{"level":100,"moves":["Surf","Blizzard","Hydro Pump","Earthquake"]}},"Golem":{"Showdown Usage":{"level":100,"moves":["Earthquake","Explosion","Rock Slide","Body Slam"]}},"Pinsir":{"Showdown Usage":{"level":100,"moves":["Body Slam","Slash","Bind","Rest"]}},"Kangaskhan":{"Showdown Usage":{"level":100,"moves":["Earthquake","Body Slam","Hyper Beam","Rock Slide"]}},"Golduck":{"Showdown Usage":{"level":100,"moves":["Amnesia","Surf","Blizzard","Rest"]}},"Scyther":{"Showdown Usage":{"level":100,"moves":["Slash","Swords Dance","Wing Attack","Substitute"]}},"Mr. Mime":{"Showdown Usage":{"level":100,"moves":["Thunder Wave","Psychic","Thunderbolt","Counter"]}},"Dragonite":{"Showdown Usage":{"level":100,"moves":["Thunder Wave","Wrap","Blizzard","Hyper Beam"]}},"Gyarados":{"Showdown Usage":{"level":100,"moves":["Blizzard","Body Slam","Hyper Beam","Hydro Pump"]}},"Vaporeon":{"Showdown Usage":{"level":100,"moves":["Surf","Body Slam","Rest","Blizzard"]}},"Lickitung":{"Showdown Usage":{"level":100,"moves":["Earthquake","Swords Dance","Body Slam","Wrap"]}},"Haunter":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Explosion","Psychic","Confuse Ray"]}},"Venomoth":{"Showdown Usage":{"level":100,"moves":["Stun Spore","Psychic","Toxic","Solar Beam"]}},"Victreebel":{"Showdown Usage":{"level":100,"moves":["Razor Leaf","Stun Spore","Wrap","Hyper Beam"]}},"Tentacruel":{"Showdown Usage":{"level":100,"moves":["Wrap","Surf","Blizzard","Rest"]}},"Kingler":{"Showdown Usage":{"level":100,"moves":["Crabhammer","Swords Dance","Hyper Beam","Blizzard"]}},"Dugtrio":{"Showdown Usage":{"level":100,"moves":["Earthquake","Rock Slide","Slash","Substitute"]}},"Dodrio":{"Showdown Usage":{"level":100,"moves":["Drill Peck","Hyper Beam","Body Slam","Agility"]}},"Persian":{"Showdown Usage":{"level":100,"moves":["Slash","Thunderbolt","Hyper Beam","Bubble Beam"]}},"Nidoking":{"Showdown Usage":{"level":100,"moves":["Earthquake","Thunderbolt","Blizzard","Hyper Beam"]}},"Electrode":{"Showdown Usage":{"level":100,"moves":["Thunder Wave","Thunderbolt","Explosion","Hyper Beam"]}},"Moltres":{"Showdown Usage":{"level":100,"moves":["Fire Blast","Hyper Beam","Double-Edge","Agility"]}},"Electabuzz":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Thunder Wave","Psychic","Body Slam"]}},"Charizard":{"Showdown Usage":{"level":100,"moves":["Earthquake","Fire Blast","Fire Spin","Flamethrower"]}},"Caterpie":{"Showdown Usage":{"level":100,"moves":["Tackle","String Shot"]}},"Dewgong":{"Showdown Usage":{"level":100,"moves":["Blizzard","Surf","Body Slam","Rest"]}},"Clefable":{"Showdown Usage":{"level":100,"moves":["Thunder Wave","Body Slam","Hyper Beam","Blizzard"]}},"Ninetales":{"Showdown Usage":{"level":100,"moves":["Confuse Ray","Fire Spin","Fire Blast","Body Slam"]}}}},"gen1nu":{"dex":{"Venusaur":{"Swords Dance Sleeper":{"moves":["Sleep Powder","Swords Dance","Razor Leaf","Hyper Beam"]}},"Charizard":{"Mixed Attacker Lead":{"moves":["Fire Blast","Earthquake","Body Slam","Counter"]},"Swords Dance Lead":{"moves":["Swords Dance","Body Slam","Earthquake","Fire Blast"]},"Swords Dance Sweeper":{"moves":["Swords Dance","Earthquake","Hyper Beam","Fire Blast"]}},"Blastoise":{"Bulky Attacker":{"moves":["Surf","Seismic Toss","Counter","Body Slam"]}},"Raticate":{"All-out Attacker":{"moves":["Hyper Beam","Body Slam","Bubble Beam","Thunderbolt"]}},"Fearow":{"All-Out Attacker":{"moves":["Hyper Beam","Double-Edge","Drill Peck","Agility"]}},"Arbok":{"Wrap":{"moves":["Glare","Wrap","Earthquake","Rock Slide"]}},"Sandslash":{"Swords Dance":{"moves":["Swords Dance","Earthquake","Rock Slide","Body Slam"]}},"Nidoqueen":{"All-Out Attacker":{"moves":["Earthquake","Thunderbolt","Rock Slide","Blizzard"]}},"Nidoking":{"Mixed Attacker":{"moves":["Earthquake","Thunderbolt","Blizzard","Rock Slide"]}},"Wigglytuff":{"Bulky Support":{"moves":["Thunder Wave","Hyper Beam","Seismic Toss","Body Slam"]}},"Venomoth":{"Double Powder":{"moves":["Sleep Powder","Stun Spore","Psychic","Double-Edge"]}},"Golduck":{"Amnesia":{"moves":["Amnesia","Surf","Blizzard","Counter"]}},"Primeape":{"All-out Attacker":{"moves":["Submission","Body Slam","Rock Slide","Hyper Beam"]}},"Arcanine":{"Defensive":{"moves":["Fire Blast","Body Slam","Hyper Beam","Rest"]}},"Poliwhirl":{"Amnesia":{"moves":["Hypnosis","Amnesia","Hydro Pump","Blizzard"]},"Offensive":{"moves":["Hypnosis","Surf","Blizzard","Seismic Toss"]}},"Poliwrath":{"Amnesia":{"moves":["Hypnosis","Amnesia","Surf","Blizzard"]},"Bulky Sleeper":{"moves":["Hypnosis","Surf","Blizzard","Seismic Toss"]}},"Abra":{"Special Attacker":{"moves":["Psychic","Thunder Wave","Seismic Toss","Counter"]}},"Machamp":{"All-Out Attacker":{"moves":["Submission","Rock Slide","Earthquake","Body Slam"]}},"Victreebel":{"Support":{"moves":["Sleep Powder","Stun Spore","Razor Leaf","Wrap"]},"Swords Dance Sleeper":{"moves":["Sleep Powder","Swords Dance","Hyper Beam","Razor Leaf"]}},"Rapidash":{"Fire Spinner":{"moves":["Fire Spin","Fire Blast","Body Slam","Hyper Beam"]}},"Slowpoke":{"Amnesia":{"moves":["Amnesia","Surf","Thunder Wave","Rest"]}},"Magneton":{"Offensive":{"moves":["Thunder Wave","Thunderbolt","Thunder","Rest"]}},"Gastly":{"Hypnosis":{"moves":["Hypnosis","Thunderbolt","Mega Drain","Night Shade"]}},"Drowzee":{"Standard":{"moves":["Psychic","Seismic Toss","Thunder Wave","Rest"]}},"Kingler":{"The Cringe Crab (Swords Dance)":{"moves":["Swords Dance","Body Slam","Hyper Beam","Crabhammer"]}},"Exeggcute":{"Support":{"moves":["Sleep Powder","Stun Spore","Psychic","Explosion"]}},"Seadra":{"Agility Sweeper":{"moves":["Surf","Blizzard","Hydro Pump","Agility"]}},"Mr. Mime":{"Standard":{"moves":["Psychic","Thunderbolt","Seismic Toss","Thunder Wave"]}},"Scyther":{"Double Dance":{"moves":["Swords Dance","Slash","Hyper Beam","Agility"]}},"Pinsir":{"Swords Dance + Bind":{"moves":["Swords Dance","Hyper Beam","Slash","Bind"]}},"Porygon":{"Standard":{"moves":["Thunderbolt","Psychic","Thunder Wave","Recover"]},"Conversion":{"moves":["Conversion","Ice Beam","Thunder Wave","Recover"]}},"Kabutops":{"Swords Dance":{"moves":["Slash","Swords Dance","Hyper Beam","Surf"]}},"Aerodactyl":{"Offensive":{"moves":["Double-Edge","Hyper Beam","Fire Blast","Sky Attack"]},"Defensive":{"moves":["Double-Edge","Fire Blast","Toxic","Rest"]}},"Moltres":{"Offensive":{"moves":["Fire Blast","Hyper Beam","Fire Spin","Agility"]},"Defensive":{"moves":["Fire Blast","Fire Spin","Toxic","Rest"]}},"Dragonair":{"Wrap":{"moves":["Wrap","Thunder Wave","Blizzard","Thunderbolt"]}}},"stats":{"Weezing":{"Showdown Usage":{"level":100,"moves":["Explosion","Sludge","Fire Blast","Thunderbolt"]}},"Sandslash":{"Showdown Usage":{"level":100,"moves":["Earthquake","Rock Slide","Swords Dance","Body Slam"]}},"Hitmonlee":{"Showdown Usage":{"level":100,"moves":["High Jump Kick","Body Slam","Mega Kick","Meditate"]}},"Machamp":{"Showdown Usage":{"level":100,"moves":["Earthquake","Rock Slide","Submission","Hyper Beam"]}},"Butterfree":{"Showdown Usage":{"level":100,"moves":["Sleep Powder","Psychic","Mega Drain","Stun Spore"]}},"Poliwhirl":{"Showdown Usage":{"level":100,"moves":["Amnesia","Hypnosis","Surf","Psychic"]}},"Parasect":{"Showdown Usage":{"level":100,"moves":["Spore","Mega Drain","Stun Spore","Swords Dance"]}},"Ditto":{"Showdown Usage":{"level":100,"moves":["Transform"]}},"Magmar":{"Showdown Usage":{"level":100,"moves":["Confuse Ray","Flamethrower","Fire Blast","Seismic Toss"]}},"Raticate":{"Showdown Usage":{"level":100,"moves":["Super Fang","Hyper Beam","Body Slam","Blizzard"]}},"Arcanine":{"Showdown Usage":{"level":100,"moves":["Body Slam","Hyper Beam","Fire Blast","Agility"]}},"Blastoise":{"Showdown Usage":{"level":100,"moves":["Surf","Rest","Blizzard","Body Slam"]}},"Pinsir":{"Showdown Usage":{"level":100,"moves":["Hyper Beam","Swords Dance","Submission","Bind"]}},"Beedrill":{"Showdown Usage":{"level":100,"moves":["Swords Dance","Twineedle","Hyper Beam","Agility"]}},"Fearow":{"Showdown Usage":{"level":100,"moves":["Drill Peck","Hyper Beam","Double-Edge","Mirror Move"]}},"Kabutops":{"Showdown Usage":{"level":100,"moves":["Surf","Slash","Hyper Beam","Swords Dance"]}},"Abra":{"Showdown Usage":{"level":100,"moves":["Psychic","Thunder Wave","Seismic Toss","Reflect"]}},"Arbok":{"Showdown Usage":{"level":100,"moves":["Glare","Earthquake","Wrap","Body Slam"]}},"Muk":{"Showdown Usage":{"level":100,"moves":["Sludge","Explosion","Acid Armor","Body Slam"]}},"Marowak":{"Showdown Usage":{"level":100,"moves":["Bonemerang","Earthquake","Body Slam","Seismic Toss"]}},"Wigglytuff":{"Showdown Usage":{"level":100,"moves":["Body Slam","Thunder Wave","Hyper Beam","Seismic Toss"]}},"Primeape":{"Showdown Usage":{"level":100,"moves":["Rock Slide","Submission","Hyper Beam","Body Slam"]}},"Scyther":{"Showdown Usage":{"level":100,"moves":["Swords Dance","Slash","Hyper Beam","Agility"]}},"Nidoqueen":{"Showdown Usage":{"level":100,"moves":["Earthquake","Blizzard","Thunderbolt","Body Slam"]}},"Dragonair":{"Showdown Usage":{"level":100,"moves":["Wrap","Hyper Beam","Thunder Wave","Thunderbolt"]}},"Lickitung":{"Showdown Usage":{"level":100,"moves":["Body Slam","Swords Dance","Earthquake","Hyper Beam"]}},"Vileplume":{"Showdown Usage":{"level":100,"moves":["Sleep Powder","Mega Drain","Body Slam","Hyper Beam"]}},"Gastly":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Hypnosis","Psychic","Explosion"]}},"Drowzee":{"Showdown Usage":{"level":100,"moves":["Psychic","Thunder Wave","Rest","Seismic Toss"]}},"Porygon":{"Showdown Usage":{"level":100,"moves":["Recover","Thunder Wave","Thunderbolt","Blizzard"]}},"Venomoth":{"Showdown Usage":{"level":100,"moves":["Psychic","Sleep Powder","Stun Spore","Mega Drain"]}},"Kingler":{"Showdown Usage":{"level":100,"moves":["Crabhammer","Swords Dance","Body Slam","Hyper Beam"]}},"Exeggcute":{"Showdown Usage":{"level":100,"moves":["Psychic","Sleep Powder","Stun Spore","Explosion"]}},"Rapidash":{"Showdown Usage":{"level":100,"moves":["Fire Spin","Fire Blast","Hyper Beam","Body Slam"]}},"Seadra":{"Showdown Usage":{"level":100,"moves":["Agility","Blizzard","Surf","Hydro Pump"]}},"Nidoking":{"Showdown Usage":{"level":100,"moves":["Earthquake","Blizzard","Thunderbolt","Rock Slide"]}},"Moltres":{"Showdown Usage":{"level":100,"moves":["Fire Blast","Fire Spin","Hyper Beam","Agility"]}},"Flareon":{"Showdown Usage":{"level":100,"moves":["Fire Blast","Hyper Beam","Body Slam","Fire Spin"]}},"Charizard":{"Showdown Usage":{"level":100,"moves":["Earthquake","Fire Blast","Fire Spin","Slash"]}},"Magneton":{"Showdown Usage":{"level":100,"moves":["Thunder Wave","Thunderbolt","Thunder","Double-Edge"]}},"Mr. Mime":{"Showdown Usage":{"level":100,"moves":["Psychic","Thunder Wave","Thunderbolt","Seismic Toss"]}}}},"gen1pu":{"dex":{"Beedrill":{"Double Dance":{"moves":["Agility","Swords Dance","Twineedle","Hyper Beam"]}},"Butterfree":{"Double Powder":{"moves":["Sleep Powder","Stun Spore","Psychic","Mega Drain"]}},"Pidgeot":{"Standard":{"moves":["Double-Edge","Hyper Beam","Sky Attack","Agility"]}},"Fearow":{"Offensive":{"moves":["Double-Edge","Drill Peck","Hyper Beam","Agility"]}},"Arbok":{"Wrap":{"moves":["Wrap","Glare","Earthquake","Hyper Beam"]}},"Sandslash":{"Swords Dance":{"moves":["Earthquake","Rock Slide","Swords Dance","Substitute"]}},"Nidoqueen":{"The Queen":{"moves":["Earthquake","Blizzard","Thunderbolt","Substitute"]}},"Golbat":{"Standard":{"moves":["Confuse Ray","Screech","Double-Edge","Mega Drain"]}},"Parasect":{"Setup Sleeper":{"moves":["Spore","Stun Spore","Swords Dance","Hyper Beam"]}},"Vileplume":{"Bulky Status Spreader":{"moves":["Sleep Powder","Stun Spore","Swords Dance","Hyper Beam"]}},"Primeape":{"All-out Attacker":{"moves":["Submission","Body Slam","Hyper Beam","Rock Slide"]}},"Arcanine":{"Bulky Attacker":{"moves":["Fire Blast","Body Slam","Hyper Beam","Agility"]}},"Poliwag":{"Amnesia Sweeper":{"moves":["Hypnosis","Amnesia","Hydro Pump","Psychic"]}},"Abra":{"Special Attacker":{"moves":["Psychic","Seismic Toss","Thunder Wave","Substitute"]}},"Machamp":{"Bulky Attacker":{"moves":["Earthquake","Body Slam","Hyper Beam","Submission"]}},"Weepinbell":{"Double Powder":{"moves":["Sleep Powder","Stun Spore","Wrap","Razor Leaf"]}},"Graveler":{"Tank":{"moves":["Earthquake","Rock Slide","Counter","Explosion"]}},"Rapidash":{"Offensive":{"moves":["Fire Blast","Body Slam","Hyper Beam","Fire Spin"]}},"Slowpoke":{"Amnesia":{"moves":["Thunder Wave","Amnesia","Psychic","Surf"]}},"Magneton":{"Special Attacker":{"moves":["Thunderbolt","Double-Edge","Thunder Wave","Toxic"]}},"Farfetch’d":{"Double Dance":{"moves":["Slash","Agility","Swords Dance","Body Slam"]}},"Muk":{"Mixed Attacker":{"moves":["Body Slam","Thunderbolt","Fire Blast","Explosion"]}},"Gastly":{"Sleeper":{"moves":["Hypnosis","Psychic","Thunderbolt","Explosion"]}},"Onix":{"Bind Pivot":{"moves":["Bind","Toxic","Earthquake","Explosion"]}},"Drowzee":{"Bulky Support":{"moves":["Thunder Wave","Psychic","Hypnosis","Seismic Toss"]}},"Marowak":{"Standard":{"moves":["Earthquake","Body Slam","Blizzard","Fire Blast"]}},"Hitmonlee":{"Meditate Attacker":{"moves":["High Jump Kick","Meditate","Body Slam","Seismic Toss"]}},"Hitmonchan":{"Agility... Sweeper?":{"moves":["Agility","Submission","Body Slam","Counter"]}},"Lickitung":{"Swords Dance":{"moves":["Swords Dance","Body Slam","Hyper Beam","Earthquake"]}},"Weezing":{"Mixed Attacker":{"moves":["Fire Blast","Thunderbolt","Hyper Beam","Explosion"]}},"Horsea":{"Agility Sweeper":{"moves":["Surf","Blizzard","Agility","Smokescreen"]}},"Seaking":{"Agility":{"moves":["Surf","Agility","Hyper Beam","Blizzard"]}},"Staryu":{"Support":{"moves":["Thunder Wave","Surf","Thunderbolt","Recover"]}},"Scyther":{"Swords Dance Sweeper":{"moves":["Swords Dance","Hyper Beam","Slash","Wing Attack"]}},"Magmar":{"Swagmar":{"moves":["Fire Blast","Body Slam","Confuse Ray","Counter"]}},"Pinsir":{"All-Out Attacker":{"moves":["Slash","Submission","Seismic Toss","Bind"]}},"Ditto":{"Transformer":{"moves":["Transform"]}},"Flareon":{"Mixed Attacker":{"moves":["Fire Blast","Body Slam","Hyper Beam","Fire Spin"]}},"Porygon":{"Agility":{"moves":["Agility","Recover","Psychic","Thunder Wave"]},"Support":{"moves":["Thunder Wave","Recover","Psychic","Thunderbolt"]}},"Omanyte":{"Standard":{"moves":["Surf","Blizzard","Body Slam","Rest"]}},"Dragonair":{"Support":{"moves":["Thunder Wave","Wrap","Blizzard","Thunderbolt"]},"AgiliWrap":{"moves":["Agility","Wrap","Blizzard","Thunderbolt"]}}},"stats":{"Pinsir":{"Showdown Usage":{"level":100,"moves":["Slash","Submission","Hyper Beam","Seismic Toss"]}},"Weezing":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Explosion","Sludge","Fire Blast"]}},"Flareon":{"Showdown Usage":{"level":100,"moves":["Hyper Beam","Body Slam","Fire Blast","Fire Spin"]}},"Slowpoke":{"Showdown Usage":{"level":100,"moves":["Amnesia","Thunder Wave","Psychic","Surf"]}},"Fearow":{"Showdown Usage":{"level":100,"moves":["Drill Peck","Hyper Beam","Double-Edge","Agility"]}},"Sandslash":{"Showdown Usage":{"level":100,"moves":["Earthquake","Swords Dance","Rock Slide","Body Slam"]}},"Abra":{"Showdown Usage":{"level":100,"moves":["Psychic","Thunder Wave","Seismic Toss","Substitute"]}},"Arbok":{"Showdown Usage":{"level":100,"moves":["Earthquake","Wrap","Glare","Hyper Beam"]}},"Seaking":{"Showdown Usage":{"level":100,"moves":["Surf","Agility","Hyper Beam","Double-Edge"]}},"Muk":{"Showdown Usage":{"level":100,"moves":["Explosion","Body Slam","Sludge","Thunderbolt"]}},"Machamp":{"Showdown Usage":{"level":100,"moves":["Earthquake","Hyper Beam","Body Slam","Submission"]}},"Butterfree":{"Showdown Usage":{"level":100,"moves":["Psychic","Sleep Powder","Stun Spore","Mega Drain"]}},"Omanyte":{"Showdown Usage":{"level":100,"moves":["Rest","Blizzard","Surf","Body Slam"]}},"Onix":{"Showdown Usage":{"level":100,"moves":["Explosion","Earthquake","Rock Slide","Bind"]}},"Gastly":{"Showdown Usage":{"level":100,"moves":["Hypnosis","Psychic","Thunderbolt","Explosion"]}},"Drowzee":{"Showdown Usage":{"level":100,"moves":["Psychic","Thunder Wave","Hypnosis","Seismic Toss"]}},"Graveler":{"Showdown Usage":{"level":100,"moves":["Earthquake","Rock Slide","Explosion","Body Slam"]}},"Dragonair":{"Showdown Usage":{"level":100,"moves":["Blizzard","Thunder Wave","Wrap","Thunderbolt"]}},"Lickitung":{"Showdown Usage":{"level":100,"moves":["Swords Dance","Earthquake","Body Slam","Hyper Beam"]}},"Hitmonlee":{"Showdown Usage":{"level":100,"moves":["High Jump Kick","Body Slam","Seismic Toss","Substitute"]}},"Porygon":{"Showdown Usage":{"level":100,"moves":["Recover","Thunder Wave","Blizzard","Thunderbolt"]}},"Poliwag":{"Showdown Usage":{"level":100,"moves":["Amnesia","Hypnosis","Surf","Blizzard"]}},"Parasect":{"Showdown Usage":{"level":100,"moves":["Spore","Mega Drain","Stun Spore","Body Slam"]}},"Primeape":{"Showdown Usage":{"level":100,"moves":["Rock Slide","Body Slam","Submission","Thunderbolt"]}},"Pidgeot":{"Showdown Usage":{"level":100,"moves":["Hyper Beam","Double-Edge","Agility","Quick Attack"]}},"Magmar":{"Showdown Usage":{"level":100,"moves":["Fire Blast","Confuse Ray","Body Slam","Psychic"]}},"Vileplume":{"Showdown Usage":{"level":100,"moves":["Sleep Powder","Body Slam","Mega Drain","Stun Spore"]}},"Rapidash":{"Showdown Usage":{"level":100,"moves":["Fire Blast","Body Slam","Hyper Beam","Fire Spin"]}},"Nidoqueen":{"Showdown Usage":{"level":100,"moves":["Earthquake","Blizzard","Thunderbolt","Fire Blast"]}},"Magneton":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Thunder Wave","Hyper Beam","Reflect"]}},"Scyther":{"Showdown Usage":{"level":100,"moves":["Swords Dance","Hyper Beam","Slash","Wing Attack"]}},"Arcanine":{"Showdown Usage":{"level":100,"moves":["Body Slam","Fire Blast","Hyper Beam","Agility"]}},"Staryu":{"Showdown Usage":{"level":100,"moves":["Thunder Wave","Surf","Thunderbolt","Recover"]}}}},"gen11v1":{"dex":{"Venusaur":{"SubSeed":{"moves":["Razor Leaf","Toxic","Leech Seed","Substitute"]}},"Persian":{"Slash":{"moves":["Slash","Hyper Beam","Thunderbolt","Screech"]}},"Golduck":{"Amnesia Attacker":{"moves":["Ice Beam","Blizzard","Amnesia","Rest"]}},"Primeape":{"Physical Attacker":{"moves":["Submission","Screech","Rock Slide","Rest"]}},"Poliwrath":{"Mixed Attacker":{"moves":["Blizzard","Amnesia","Submission","Rest"]}},"Alakazam":{"Psychic Stallbreaker":{"moves":["Psychic","Toxic","Recover","Substitute"]}},"Machamp":{"All-Out Attacker":{"moves":["Submission","Hyper Beam","Earthquake","Rock Slide"]}},"Golem":{"Rest 3 Attacks":{"moves":["Earthquake","Rock Slide","Body Slam","Rest"]}},"Slowbro":{"Stall":{"moves":["Ice Beam","Amnesia","Rest","Counter"]}},"Cloyster":{"Standard":{"moves":["Blizzard","Surf","Toxic","Rest"]}},"Gengar":{"Rest":{"moves":["Thunderbolt","Psychic","Rest","Substitute"]}},"Electrode":{"Screech + Hyper Beam":{"moves":["Thunderbolt","Hyper Beam","Screech","Rest"]}},"Exeggutor":{"SubSeed":{"moves":["Psychic","Toxic","Leech Seed","Substitute"]}},"Hitmonlee":{"Offensive":{"moves":["High Jump Kick","Jump Kick","Rolling Kick","Meditate"]}},"Rhydon":{"Standard":{"moves":["Earthquake","Rock Slide","Body Slam","Bubble Beam"]}},"Chansey":{"The Egg":{"moves":["Ice Beam","Soft-Boiled","Thunder Wave","Reflect"]}},"Starmie":{"Psychic Stall":{"moves":["Psychic","Ice Beam","Recover","Reflect"]}},"Jynx":{"Special Attacker":{"moves":["Ice Beam","Psychic","Blizzard","Rest"]}},"Electabuzz":{"Mixed Attacker":{"moves":["Thunderbolt","Screech","Body Slam","Hyper Beam"]}},"Tauros":{"The Bull":{"moves":["Hyper Beam","Body Slam","Earthquake","Fire Blast"]}},"Lapras":{"Special Attacker":{"moves":["Ice Beam","Thunderbolt","Reflect","Rest"]}},"Jolteon":{"Critical Attacker":{"moves":["Thunderbolt","Pin Missile","Toxic","Rest"]}},"Snorlax":{"Amnesia Attacker":{"moves":["Body Slam","Hyper Beam","Amnesia","Ice Beam"]}},"Articuno":{"Reflect + Rest":{"moves":["Ice Beam","Blizzard","Rest","Reflect"]}},"Zapdos":{"Mixed Attacker":{"moves":["Thunderbolt","Drill Peck","Thunder","Reflect"]}},"Moltres":{"Mixed Attacker":{"moves":["Fire Blast","Toxic","Rest","Reflect"]}}},"stats":{"Exeggutor":{"Showdown Usage":{"level":100,"moves":["Leech Seed","Toxic","Psychic","Substitute"]}},"Snorlax":{"Showdown Usage":{"level":100,"moves":["Rest","Amnesia","Body Slam","Hyper Beam"]}},"Machamp":{"Showdown Usage":{"level":100,"moves":["Submission","Hyper Beam","Counter","Earthquake"]}},"Rhydon":{"Showdown Usage":{"level":100,"moves":["Earthquake","Rock Slide","Body Slam","Counter"]}},"Lapras":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Confuse Ray","Blizzard","Toxic"]}},"Slowbro":{"Showdown Usage":{"level":100,"moves":["Amnesia","Rest","Thunder Wave","Surf"]}},"Articuno":{"Showdown Usage":{"level":100,"moves":["Blizzard","Rest","Hyper Beam","Toxic"]}},"Blastoise":{"Showdown Usage":{"level":100,"moves":["Hydro Pump","Earthquake","Ice Beam","Surf"]}},"Golem":{"Showdown Usage":{"level":100,"moves":["Earthquake","Rock Slide","Counter","Hyper Beam"]}},"Cloyster":{"Showdown Usage":{"level":100,"moves":["Hyper Beam","Blizzard","Reflect","Surf"]}},"Tauros":{"Showdown Usage":{"level":100,"moves":["Body Slam","Hyper Beam","Blizzard","Earthquake"]}},"Chansey":{"Showdown Usage":{"level":100,"moves":["Soft-Boiled","Ice Beam","Thunder Wave","Thunderbolt"]}},"Jolteon":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Thunder Wave","Pin Missile","Rest"]}},"Venusaur":{"Showdown Usage":{"level":100,"moves":["Razor Leaf","Body Slam","Mega Drain","Hyper Beam"]}},"Alakazam":{"Showdown Usage":{"level":100,"moves":["Psychic","Recover","Thunder Wave","Reflect"]}},"Dragonite":{"Showdown Usage":{"level":100,"moves":["Ice Beam","Thunderbolt","Hyper Beam","Fire Blast"]}},"Vaporeon":{"Showdown Usage":{"level":100,"moves":["Acid Armor","Surf","Ice Beam","Haze"]}},"Victreebel":{"Showdown Usage":{"level":100,"moves":["Razor Leaf","Swords Dance","Hyper Beam","Stun Spore"]}},"Gengar":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Confuse Ray","Psychic","Night Shade"]}},"Persian":{"Showdown Usage":{"level":100,"moves":["Slash","Hyper Beam","Thunderbolt","Bubble Beam"]}},"Zapdos":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Drill Peck","Reflect","Thunder Wave"]}},"Electrode":{"Showdown Usage":{"level":100,"moves":["Thunderbolt","Reflect","Rest","Light Screen"]}},"Moltres":{"Showdown Usage":{"level":100,"moves":["Fire Blast","Hyper Beam","Reflect","Rest"]}},"Charizard":{"Showdown Usage":{"level":100,"moves":["Fire Blast","Earthquake","Flamethrower","Hyper Beam"]}},"Starmie":{"Showdown Usage":{"level":100,"moves":["Recover","Psychic","Blizzard","Thunder Wave"]}}}}}
+{
+  "gen1ubers": {
+    "dex": {
+      "Persian": {
+        "Slash": {
+          "moves": ["Slash", "Hyper Beam", "Thunderbolt", "Bubble Beam"]
+        }
+      },
+      "Alakazam": {
+        "Standard": {
+          "moves": ["Thunder Wave", "Seismic Toss", "Psychic", "Recover"]
+        }
+      },
+      "Victreebel": {
+        "Wrap": {
+          "moves": ["Wrap", "Razor Leaf", "Sleep Powder", "Stun Spore"]
+        }
+      },
+      "Golem": {
+        "Explosion": {
+          "moves": ["Earthquake", "Rock Slide", "Explosion", "Substitute"]
+        }
+      },
+      "Slowbro": {
+        "TobyBro (Amnesia)": {
+          "moves": ["Surf", "Amnesia", "Rest", "Thunder Wave"]
+        }
+      },
+      "Cloyster": {
+        "Clamp": { "moves": ["Clamp", "Blizzard", "Explosion", "Rest"] }
+      },
+      "Gengar": {
+        "Sleeper": {
+          "moves": ["Hypnosis", "Night Shade", "Thunderbolt", "Explosion"]
+        }
+      },
+      "Hypno": {
+        "Lead Sleeper": {
+          "moves": ["Psychic", "Hypnosis", "Thunder Wave", "Seismic Toss"]
+        }
+      },
+      "Electrode": {
+        "Explosion": {
+          "moves": ["Thunder Wave", "Thunderbolt", "Screech", "Explosion"]
+        }
+      },
+      "Exeggutor": {
+        "Bulky Sleeper": {
+          "moves": ["Sleep Powder", "Stun Spore", "Psychic", "Explosion"]
+        }
+      },
+      "Rhydon": {
+        "Standard": {
+          "moves": ["Earthquake", "Rock Slide", "Body Slam", "Substitute"]
+        }
+      },
+      "Chansey": {
+        "Light Screen": {
+          "moves": [
+            "Light Screen",
+            "Seismic Toss",
+            "Soft-Boiled",
+            "Thunder Wave"
+          ]
+        },
+        "Sing": {
+          "moves": ["Sing", "Seismic Toss", "Soft-Boiled", "Thunder Wave"]
+        }
+      },
+      "Starmie": {
+        "Paralysis Lead": {
+          "moves": ["Thunder Wave", "Recover", "Psychic", "Blizzard"]
+        }
+      },
+      "Jynx": {
+        "Sleep Lead": {
+          "moves": ["Lovely Kiss", "Blizzard", "Psychic", "Counter"]
+        }
+      },
+      "Tauros": {
+        "Standard": {
+          "moves": ["Body Slam", "Hyper Beam", "Earthquake", "Blizzard"]
+        }
+      },
+      "Lapras": {
+        "Confuse Ray": {
+          "moves": ["Blizzard", "Thunderbolt", "Confuse Ray", "Body Slam"]
+        },
+        "Sing Lead": {
+          "moves": ["Sing", "Blizzard", "Thunderbolt", "Hyper Beam"]
+        }
+      },
+      "Jolteon": {
+        "Paralysis Lead": {
+          "moves": ["Thunder Wave", "Thunderbolt", "Pin Missile", "Double Kick"]
+        }
+      },
+      "Snorlax": {
+        "PhysLax (All-out Attacker)": {
+          "moves": ["Body Slam", "Self-Destruct", "Hyper Beam", "Earthquake"]
+        },
+        "Reflect": { "moves": ["Body Slam", "Reflect", "Rest", "Earthquake"] }
+      },
+      "Aerodactyl": {
+        "Defensive Wall": {
+          "moves": ["Reflect", "Rest", "Double-Edge", "Fire Blast"]
+        }
+      },
+      "Articuno": {
+        "Bulky Attacker": {
+          "moves": ["Blizzard", "Hyper Beam", "Rest", "Agility"]
+        }
+      },
+      "Zapdos": {
+        "Mixed Attacker": {
+          "moves": ["Thunderbolt", "Drill Peck", "Thunder Wave", "Agility"]
+        }
+      },
+      "Mewtwo": {
+        "Standard": {
+          "moves": ["Amnesia", "Psychic", "Thunderbolt", "Recover"]
+        },
+        "BooM2 (Self-Destruct)": {
+          "moves": ["Amnesia", "Recover", "Thunderbolt", "Self-Destruct"]
+        },
+        "Staller": {
+          "moves": ["Amnesia", "Thunderbolt", "Flash", "Recover"],
+          "ivs": { "spa": 26 },
+          "evs": {
+            "hp": 252,
+            "atk": 252,
+            "def": 252,
+            "spa": 8,
+            "spd": 252,
+            "spe": 252
+          }
+        }
+      },
+      "Mew": {
+        "Traditional Sweeper": {
+          "moves": ["Swords Dance", "Earthquake", "Body Slam", "Soft-Boiled"]
+        },
+        "GGMew (Reflect Sweeper)": {
+          "moves": ["Reflect", "Swords Dance", "Body Slam", "Soft-Boiled"]
+        },
+        "Explosive Lure": {
+          "moves": ["Thunder Wave", "Swords Dance", "Body Slam", "Explosion"]
+        },
+        "Lutrew / PaRaSiTe Mew (Transform)": {
+          "moves": ["Transform", "Thunder Wave", "Soft-Boiled", "Reflect"]
+        }
+      },
+      "Dragonite": {
+        "Agility + Wrap": { "moves": ["Agility", "Wrap", "Surf", "Hyper Beam"] }
+      }
+    },
+    "stats": {
+      "Sandslash": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Swords Dance", "Substitute", "Sand Attack"]
+        }
+      },
+      "Chansey": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Soft-Boiled", "Thunder Wave", "Ice Beam", "Seismic Toss"]
+        }
+      },
+      "Rhydon": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Rock Slide", "Body Slam", "Substitute"]
+        }
+      },
+      "Exeggutor": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Sleep Powder", "Psychic", "Explosion", "Stun Spore"]
+        }
+      },
+      "Slowbro": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Amnesia", "Rest", "Thunder Wave", "Surf"]
+        }
+      },
+      "Snorlax": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Body Slam", "Self-Destruct", "Earthquake", "Hyper Beam"]
+        }
+      },
+      "Cloyster": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Explosion", "Clamp", "Blizzard", "Rest"]
+        }
+      },
+      "Tauros": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hyper Beam", "Body Slam", "Earthquake", "Blizzard"]
+        }
+      },
+      "Mew": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Swords Dance", "Soft-Boiled", "Earthquake", "Explosion"]
+        }
+      },
+      "Jolteon": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Thunder Wave", "Pin Missile", "Double Kick"]
+        }
+      },
+      "Alakazam": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Recover", "Thunder Wave", "Psychic", "Seismic Toss"]
+        }
+      },
+      "Dragonite": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hyper Beam", "Wrap", "Agility", "Blizzard"]
+        }
+      },
+      "Mewtwo": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Amnesia", "Recover", "Psychic", "Ice Beam"]
+        }
+      },
+      "Hypno": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hypnosis", "Thunder Wave", "Psychic", "Counter"]
+        }
+      },
+      "Gengar": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hypnosis", "Explosion", "Night Shade", "Thunderbolt"]
+        }
+      },
+      "Zapdos": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Drill Peck", "Thunder Wave", "Agility"]
+        }
+      },
+      "Jynx": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Lovely Kiss", "Blizzard", "Psychic", "Counter"]
+        }
+      },
+      "Starmie": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Recover", "Thunder Wave", "Blizzard", "Surf"]
+        }
+      }
+    }
+  },
+  "gen1ou": {
+    "dex": {
+      "Venusaur": {
+        "Swords Dance": {
+          "moves": ["Sleep Powder", "Razor Leaf", "Swords Dance", "Hyper Beam"]
+        }
+      },
+      "Charizard": {
+        "Swords Dance": {
+          "moves": ["Swords Dance", "Hyper Beam", "Earthquake", "Slash"]
+        }
+      },
+      "Raticate": {
+        "Biggie Cheese (Super Fang)": {
+          "moves": ["Super Fang", "Hyper Beam", "Body Slam", "Bubble Beam"]
+        }
+      },
+      "Arbok": {
+        "Wrapper": { "moves": ["Glare", "Wrap", "Earthquake", "Hyper Beam"] }
+      },
+      "Raichu": {
+        "Mixed Attacker": {
+          "moves": ["Thunderbolt", "Thunder Wave", "Submission", "Surf"]
+        }
+      },
+      "Sandslash": {
+        "Swords Dance": {
+          "moves": ["Swords Dance", "Earthquake", "Body Slam", "Hyper Beam"]
+        }
+      },
+      "Clefable": {
+        "Status Spreader": {
+          "moves": ["Mega Kick", "Hyper Beam", "Blizzard", "Thunder Wave"]
+        },
+        "Offensive": {
+          "moves": ["Blizzard", "Body Slam", "Hyper Beam", "Thunderbolt"]
+        },
+        "Status Inducer": {
+          "moves": ["Blizzard", "Thunder Wave", "Sing", "Thunderbolt"]
+        }
+      },
+      "Persian": {
+        "Slash": {
+          "moves": ["Slash", "Hyper Beam", "Bubble Beam", "Thunderbolt"]
+        }
+      },
+      "Poliwrath": {
+        "Amnesia": {
+          "moves": ["Amnesia", "Hydro Pump", "Blizzard", "Hypnosis"]
+        }
+      },
+      "Alakazam": {
+        "Standard": {
+          "moves": ["Psychic", "Seismic Toss", "Thunder Wave", "Recover"]
+        }
+      },
+      "Machamp": {
+        "Wallbreaker": {
+          "moves": ["Low Kick", "Body Slam", "Hyper Beam", "Earthquake"]
+        }
+      },
+      "Victreebel": {
+        "Standard": {
+          "moves": ["Sleep Powder", "Wrap", "Razor Leaf", "Stun Spore"]
+        },
+        "Swords Dance": {
+          "moves": ["Swords Dance", "Hyper Beam", "Razor Leaf", "Wrap"]
+        }
+      },
+      "Golem": {
+        "Explosion": {
+          "moves": ["Rock Slide", "Earthquake", "Body Slam", "Explosion"]
+        }
+      },
+      "Slowbro": {
+        "TobyBro (Amnesia)": {
+          "moves": ["Amnesia", "Surf", "Thunder Wave", "Rest"]
+        }
+      },
+      "Dodrio": {
+        "Agility Sweeper": {
+          "moves": ["Body Slam", "Drill Peck", "Hyper Beam", "Agility"]
+        }
+      },
+      "Cloyster": {
+        "Standard": { "moves": ["Clamp", "Blizzard", "Rest", "Explosion"] }
+      },
+      "Gengar": {
+        "Sleeper": {
+          "moves": ["Hypnosis", "Thunderbolt", "Night Shade", "Explosion"]
+        }
+      },
+      "Hypno": {
+        "Double Status": {
+          "moves": ["Hypnosis", "Thunder Wave", "Psychic", "Seismic Toss"]
+        }
+      },
+      "Kingler": {
+        "Swords Dance": {
+          "moves": ["Swords Dance", "Hyper Beam", "Body Slam", "Crabhammer"]
+        }
+      },
+      "Exeggutor": {
+        "Sleeper": {
+          "moves": ["Sleep Powder", "Psychic", "Explosion", "Double-Edge"]
+        }
+      },
+      "Rhydon": {
+        "Standard": {
+          "moves": ["Earthquake", "Rock Slide", "Body Slam", "Substitute"]
+        }
+      },
+      "Chansey": {
+        "BoltBeam": {
+          "moves": ["Thunderbolt", "Ice Beam", "Soft-Boiled", "Thunder Wave"]
+        },
+        "Sing": {
+          "moves": ["Sing", "Ice Beam", "Soft-Boiled", "Thunder Wave"]
+        },
+        "Reflect": {
+          "moves": ["Reflect", "Seismic Toss", "Soft-Boiled", "Thunder Wave"]
+        }
+      },
+      "Kangaskhan": {
+        "Wallbreaker": {
+          "moves": ["Body Slam", "Hyper Beam", "Earthquake", "Surf"]
+        }
+      },
+      "Starmie": {
+        "Special Attacker": {
+          "moves": ["Recover", "Thunder Wave", "Blizzard", "Psychic"]
+        }
+      },
+      "Jynx": {
+        "Lead Sleeper": {
+          "moves": ["Lovely Kiss", "Blizzard", "Psychic", "Rest"]
+        }
+      },
+      "Pinsir": {
+        "Swords Dance": {
+          "moves": ["Swords Dance", "Hyper Beam", "Slash", "Submission"]
+        }
+      },
+      "Tauros": {
+        "The Bull": {
+          "moves": ["Body Slam", "Hyper Beam", "Blizzard", "Earthquake"]
+        }
+      },
+      "Gyarados": {
+        "Wallbreaker": {
+          "moves": ["Hydro Pump", "Thunderbolt", "Body Slam", "Hyper Beam"]
+        }
+      },
+      "Lapras": {
+        "Standard": {
+          "moves": ["Blizzard", "Thunderbolt", "Hyper Beam", "Sing"]
+        }
+      },
+      "Jolteon": {
+        "Offensive": {
+          "moves": ["Thunder Wave", "Thunderbolt", "Double Kick", "Rest"]
+        }
+      },
+      "Flareon": {
+        "Mixed Attacker": {
+          "moves": ["Fire Blast", "Body Slam", "Hyper Beam", "Fire Spin"]
+        }
+      },
+      "Porygon": {
+        "Wall": {
+          "moves": ["Recover", "Thunder Wave", "Ice Beam", "Thunderbolt"]
+        }
+      },
+      "Omastar": {
+        "Tank": { "moves": ["Hydro Pump", "Ice Beam", "Body Slam", "Rest"] }
+      },
+      "Kabutops": {
+        "Standard": { "moves": ["Swords Dance", "Slash", "Hyper Beam", "Surf"] }
+      },
+      "Snorlax": {
+        "Reflect": { "moves": ["Body Slam", "Reflect", "Rest", "Ice Beam"] },
+        "Physical Attacker": {
+          "moves": ["Body Slam", "Hyper Beam", "Self-Destruct", "Earthquake"]
+        },
+        "Mixed Attacker": {
+          "moves": ["Body Slam", "Blizzard", "Amnesia", "Rest"]
+        }
+      },
+      "Articuno": {
+        "Standard": {
+          "moves": ["Blizzard", "Agility", "Double-Edge", "Hyper Beam"]
+        }
+      },
+      "Zapdos": {
+        "Mixed Attacker": {
+          "moves": ["Thunderbolt", "Drill Peck", "Thunder Wave", "Agility"]
+        }
+      },
+      "Moltres": {
+        "Standard": {
+          "moves": ["Fire Blast", "Hyper Beam", "Agility", "Fire Spin"]
+        }
+      },
+      "Dragonite": {
+        "Wrap": { "moves": ["Wrap", "Hyper Beam", "Blizzard", "Thunder Wave"] },
+        "AgiliWrap": { "moves": ["Agility", "Wrap", "Hyper Beam", "Surf"] }
+      }
+    },
+    "stats": {
+      "Snorlax": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Body Slam", "Rest", "Reflect", "Earthquake"]
+        }
+      },
+      "Machamp": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Low Kick", "Body Slam", "Hyper Beam"]
+        }
+      },
+      "Raichu": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Surf", "Thunder Wave", "Submission"]
+        }
+      },
+      "Rhydon": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Rock Slide", "Body Slam", "Substitute"]
+        }
+      },
+      "Lapras": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Blizzard", "Thunderbolt", "Sing", "Confuse Ray"]
+        }
+      },
+      "Slowbro": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Amnesia", "Rest", "Surf", "Thunder Wave"]
+        }
+      },
+      "Sandslash": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Swords Dance", "Body Slam", "Hyper Beam"]
+        }
+      },
+      "Articuno": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Blizzard", "Hyper Beam", "Agility", "Double-Edge"]
+        }
+      },
+      "Golem": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Explosion", "Rock Slide", "Body Slam"]
+        }
+      },
+      "Pinsir": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Swords Dance", "Hyper Beam", "Submission", "Bind"]
+        }
+      },
+      "Cloyster": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Explosion", "Clamp", "Blizzard", "Rest"]
+        }
+      },
+      "Tauros": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Body Slam", "Hyper Beam", "Blizzard", "Earthquake"]
+        }
+      },
+      "Chansey": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Soft-Boiled", "Thunder Wave", "Ice Beam", "Thunderbolt"]
+        }
+      },
+      "Exeggutor": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Sleep Powder", "Explosion", "Stun Spore"]
+        }
+      },
+      "Jolteon": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Thunder Wave", "Double Kick", "Pin Missile"]
+        }
+      },
+      "Venusaur": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Razor Leaf", "Sleep Powder", "Hyper Beam", "Swords Dance"]
+        }
+      },
+      "Alakazam": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Recover", "Thunder Wave", "Seismic Toss"]
+        }
+      },
+      "Dragonite": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Wrap", "Hyper Beam", "Blizzard", "Agility"]
+        }
+      },
+      "Hypno": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Thunder Wave", "Rest", "Hypnosis"]
+        }
+      },
+      "Porygon": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Recover", "Thunder Wave", "Ice Beam", "Thunderbolt"]
+        }
+      },
+      "Victreebel": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Razor Leaf", "Wrap", "Sleep Powder", "Stun Spore"]
+        }
+      },
+      "Kingler": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hyper Beam", "Swords Dance", "Crabhammer", "Body Slam"]
+        }
+      },
+      "Gengar": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hypnosis", "Explosion", "Thunderbolt", "Psychic"]
+        }
+      },
+      "Dugtrio": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Rock Slide", "Slash", "Sand Attack"]
+        }
+      },
+      "Persian": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Slash", "Bubble Beam", "Thunderbolt", "Hyper Beam"]
+        }
+      },
+      "Zapdos": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Drill Peck", "Thunderbolt", "Thunder Wave", "Agility"]
+        }
+      },
+      "Electrode": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Explosion", "Thunderbolt", "Thunder Wave", "Thunder"]
+        }
+      },
+      "Moltres": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Fire Blast", "Hyper Beam", "Fire Spin", "Agility"]
+        }
+      },
+      "Charizard": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Fire Blast", "Earthquake", "Swords Dance", "Hyper Beam"]
+        }
+      },
+      "Jynx": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Lovely Kiss", "Psychic", "Blizzard", "Rest"]
+        }
+      },
+      "Starmie": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Recover", "Thunder Wave", "Thunderbolt", "Blizzard"]
+        }
+      }
+    }
+  },
+  "gen1uu": {
+    "dex": {
+      "Venusaur": {
+        "Sleeper": {
+          "moves": ["Razor Leaf", "Body Slam", "Sleep Powder", "Toxic"]
+        }
+      },
+      "Charizard": {
+        "Swords Dance Wallbreaker": {
+          "moves": ["Swords Dance", "Fire Blast", "Earthquake", "Body Slam"]
+        }
+      },
+      "Blastoise": {
+        "Bulky Attacker": {
+          "moves": ["Surf", "Blizzard", "Earthquake", "Rest"]
+        }
+      },
+      "Raticate": {
+        "Super Fang": {
+          "moves": ["Super Fang", "Hyper Beam", "Body Slam", "Blizzard"]
+        }
+      },
+      "Arbok": {
+        "Glare + Wrap": {
+          "moves": ["Glare", "Wrap", "Earthquake", "Hyper Beam"]
+        }
+      },
+      "Raichu": {
+        "Agility Sweeper": {
+          "moves": ["Thunderbolt", "Surf", "Thunder Wave", "Agility"]
+        }
+      },
+      "Nidoking": {
+        "Mixed Attacker": {
+          "moves": ["Thunderbolt", "Blizzard", "Earthquake", "Body Slam"]
+        }
+      },
+      "Clefable": {
+        "Offensive Utility": {
+          "moves": ["Thunder Wave", "Body Slam", "Hyper Beam", "Thunderbolt"]
+        }
+      },
+      "Ninetales": {
+        "Fire Spin Pivot": {
+          "moves": ["Fire Blast", "Fire Spin", "Body Slam", "Confuse Ray"]
+        }
+      },
+      "Dugtrio": {
+        "Dugtrio": {
+          "moves": ["Earthquake", "Rock Slide", "Slash", "Substitute"]
+        },
+        "Physical Attacker": {
+          "moves": ["Earthquake", "Rock Slide", "Slash", "Toxic"]
+        }
+      },
+      "Persian": {
+        "Revenge Killer": {
+          "moves": ["Slash", "Hyper Beam", "Thunderbolt", "Toxic"]
+        }
+      },
+      "Golduck": {
+        "Amnesia": { "moves": ["Amnesia", "Hydro Pump", "Blizzard", "Rest"] }
+      },
+      "Arcanine": {
+        "Agility Sweeper": {
+          "moves": ["Agility", "Body Slam", "Hyper Beam", "Fire Blast"]
+        }
+      },
+      "Poliwrath": {
+        "Poliwrath": {
+          "moves": ["Submission", "Body Slam", "Blizzard", "Counter"]
+        },
+        "Bulky Sleeper": {
+          "moves": ["Hypnosis", "Blizzard", "Earthquake", "Body Slam"]
+        },
+        "Amnesia": { "moves": ["Amnesia", "Surf", "Blizzard", "Rest"] }
+      },
+      "Kadabra": {
+        "Standard": {
+          "moves": ["Psychic", "Thunder Wave", "Seismic Toss", "Recover"]
+        }
+      },
+      "Victreebel": {
+        "Attacker": {
+          "moves": ["Razor Leaf", "Stun Spore", "Hyper Beam", "Swords Dance"]
+        }
+      },
+      "Tentacruel": {
+        "Wrap Pivot": { "moves": ["Wrap", "Surf", "Blizzard", "Rest"] },
+        "Swords Dance": {
+          "moves": ["Swords Dance", "Surf", "Wrap", "Hyper Beam"]
+        }
+      },
+      "Golem": {
+        "Standard": {
+          "moves": ["Earthquake", "Rock Slide", "Substitute", "Explosion"]
+        }
+      },
+      "Rapidash": {
+        "Fire Spin Breaker": {
+          "moves": ["Fire Blast", "Fire Spin", "Hyper Beam", "Body Slam"]
+        }
+      },
+      "Magneton": {
+        "Bulky Special Attacker": {
+          "moves": ["Thunderbolt", "Thunder Wave", "Double-Edge", "Rest"]
+        }
+      },
+      "Dodrio": {
+        "Physical Sweeper": {
+          "moves": ["Body Slam", "Drill Peck", "Hyper Beam", "Agility"]
+        }
+      },
+      "Dewgong": {
+        "Defensive": { "moves": ["Blizzard", "Surf", "Body Slam", "Rest"] }
+      },
+      "Haunter": {
+        "Haunter": {
+          "moves": ["Thunderbolt", "Explosion", "Psychic", "Night Shade"]
+        },
+        "Sleeper": {
+          "moves": ["Hypnosis", "Night Shade", "Thunderbolt", "Explosion"]
+        }
+      },
+      "Electrode": {
+        "Fast Attacker": {
+          "moves": ["Thunderbolt", "Thunder Wave", "Explosion", "Screech"]
+        }
+      },
+      "Tangela": {
+        "Defensive Pivot": {
+          "moves": ["Sleep Powder", "Stun Spore", "Bind", "Body Slam"]
+        },
+        "Defensive Growth": {
+          "moves": ["Sleep Powder", "Stun Spore", "Growth", "Mega Drain"]
+        }
+      },
+      "Kangaskhan": {
+        "Kangaskhan": {
+          "moves": ["Body Slam", "Hyper Beam", "Earthquake", "Rock Slide"]
+        },
+        "Wallbreaker": {
+          "moves": ["Body Slam", "Hyper Beam", "Earthquake", "Rock Slide"]
+        }
+      },
+      "Electabuzz": {
+        "Offensive": {
+          "moves": ["Thunderbolt", "Thunder Wave", "Body Slam", "Hyper Beam"]
+        },
+        "Offensive (old)": {
+          "moves": ["Thunder Wave", "Thunderbolt", "Body Slam", "Psychic"]
+        }
+      },
+      "Pinsir": {
+        "Swords Dance Sweeper": {
+          "moves": ["Swords Dance", "Hyper Beam", "Slash", "Bind"]
+        }
+      },
+      "Gyarados": {
+        "All-out Attacker": {
+          "moves": ["Body Slam", "Blizzard", "Hyper Beam", "Thunderbolt"]
+        }
+      },
+      "Vaporeon": {
+        "Bulky Special Attacker": {
+          "moves": ["Surf", "Blizzard", "Body Slam", "Rest"]
+        }
+      },
+      "Porygon": {
+        "Staller": {
+          "moves": ["Thunderbolt", "Ice Beam", "Thunder Wave", "Recover"]
+        }
+      },
+      "Omastar": {
+        "Bulky Attacker": {
+          "moves": ["Hydro Pump", "Body Slam", "Seismic Toss", "Rest"]
+        },
+        "Defensive": { "moves": ["Surf", "Blizzard", "Body Slam", "Rest"] }
+      },
+      "Kabutops": {
+        "Mixed Sweeper": {
+          "moves": ["Hyper Beam", "Slash", "Blizzard", "Swords Dance"]
+        }
+      },
+      "Aerodactyl": {
+        "Speed Utility": {
+          "moves": ["Double-Edge", "Hyper Beam", "Fire Blast", "Toxic"]
+        }
+      },
+      "Articuno": {
+        "Agility Sweeper": {
+          "moves": ["Blizzard", "Double-Edge", "Hyper Beam", "Agility"]
+        }
+      },
+      "Dragonite": {
+        "Wrap Pivot": {
+          "moves": ["Wrap", "Thunder Wave", "Blizzard", "Body Slam"]
+        },
+        "PhysNite (Offensive)": {
+          "moves": ["Blizzard", "Body Slam", "Thunderbolt", "Hyper Beam"]
+        },
+        "Agility Sweeper": {
+          "moves": ["Blizzard", "Thunderbolt", "Hyper Beam", "Agility"]
+        }
+      }
+    },
+    "stats": {
+      "Kadabra": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Thunder Wave", "Recover", "Seismic Toss"]
+        }
+      },
+      "Beedrill": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hyper Beam", "Agility", "Swords Dance", "Substitute"]
+        }
+      },
+      "Poliwrath": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Amnesia", "Surf", "Blizzard", "Rest"]
+        }
+      },
+      "Machamp": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Body Slam", "Rock Slide", "Submission"]
+        }
+      },
+      "Butterfree": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Stun Spore", "Flash", "Substitute"]
+        }
+      },
+      "Raichu": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Surf", "Thunder Wave", "Agility"]
+        }
+      },
+      "Tangela": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Mega Drain", "Growth", "Stun Spore", "Body Slam"]
+        }
+      },
+      "Parasect": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Swords Dance", "Stun Spore", "Hyper Beam", "Substitute"]
+        }
+      },
+      "Aerodactyl": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hyper Beam", "Fire Blast", "Double-Edge", "Substitute"]
+        }
+      },
+      "Raticate": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Super Fang", "Blizzard", "Thunderbolt", "Quick Attack"]
+        }
+      },
+      "Arcanine": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Fire Blast", "Body Slam", "Hyper Beam", "Flamethrower"]
+        }
+      },
+      "Omastar": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Blizzard", "Rest", "Body Slam", "Surf"]
+        }
+      },
+      "Venusaur": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Razor Leaf", "Body Slam", "Hyper Beam", "Leech Seed"]
+        }
+      },
+      "Articuno": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Blizzard", "Agility", "Hyper Beam", "Double-Edge"]
+        }
+      },
+      "Blastoise": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Surf", "Blizzard", "Hydro Pump", "Earthquake"]
+        }
+      },
+      "Golem": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Explosion", "Rock Slide", "Body Slam"]
+        }
+      },
+      "Pinsir": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Body Slam", "Slash", "Bind", "Rest"]
+        }
+      },
+      "Kangaskhan": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Body Slam", "Hyper Beam", "Rock Slide"]
+        }
+      },
+      "Golduck": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Amnesia", "Surf", "Blizzard", "Rest"]
+        }
+      },
+      "Scyther": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Slash", "Swords Dance", "Wing Attack", "Substitute"]
+        }
+      },
+      "Mr. Mime": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunder Wave", "Psychic", "Thunderbolt", "Counter"]
+        }
+      },
+      "Dragonite": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunder Wave", "Wrap", "Blizzard", "Hyper Beam"]
+        }
+      },
+      "Gyarados": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Blizzard", "Body Slam", "Hyper Beam", "Hydro Pump"]
+        }
+      },
+      "Vaporeon": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Surf", "Body Slam", "Rest", "Blizzard"]
+        }
+      },
+      "Lickitung": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Swords Dance", "Body Slam", "Wrap"]
+        }
+      },
+      "Haunter": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Explosion", "Psychic", "Confuse Ray"]
+        }
+      },
+      "Venomoth": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Stun Spore", "Psychic", "Toxic", "Solar Beam"]
+        }
+      },
+      "Victreebel": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Razor Leaf", "Stun Spore", "Wrap", "Hyper Beam"]
+        }
+      },
+      "Tentacruel": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Wrap", "Surf", "Blizzard", "Rest"]
+        }
+      },
+      "Kingler": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Crabhammer", "Swords Dance", "Hyper Beam", "Blizzard"]
+        }
+      },
+      "Dugtrio": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Rock Slide", "Slash", "Substitute"]
+        }
+      },
+      "Dodrio": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Drill Peck", "Hyper Beam", "Body Slam", "Agility"]
+        }
+      },
+      "Persian": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Slash", "Thunderbolt", "Hyper Beam", "Bubble Beam"]
+        }
+      },
+      "Nidoking": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Thunderbolt", "Blizzard", "Hyper Beam"]
+        }
+      },
+      "Electrode": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunder Wave", "Thunderbolt", "Explosion", "Hyper Beam"]
+        }
+      },
+      "Moltres": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Fire Blast", "Hyper Beam", "Double-Edge", "Agility"]
+        }
+      },
+      "Electabuzz": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Thunder Wave", "Psychic", "Body Slam"]
+        }
+      },
+      "Charizard": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Fire Blast", "Fire Spin", "Flamethrower"]
+        }
+      },
+      "Caterpie": {
+        "Showdown Usage": { "level": 100, "moves": ["Tackle", "String Shot"] }
+      },
+      "Dewgong": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Blizzard", "Surf", "Body Slam", "Rest"]
+        }
+      },
+      "Clefable": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunder Wave", "Body Slam", "Hyper Beam", "Blizzard"]
+        }
+      },
+      "Ninetales": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Confuse Ray", "Fire Spin", "Fire Blast", "Body Slam"]
+        }
+      }
+    }
+  },
+  "gen1nu": {
+    "dex": {
+      "Venusaur": {
+        "Swords Dance Sleeper": {
+          "moves": ["Sleep Powder", "Swords Dance", "Razor Leaf", "Hyper Beam"]
+        }
+      },
+      "Charizard": {
+        "Mixed Attacker Lead": {
+          "moves": ["Fire Blast", "Earthquake", "Body Slam", "Counter"]
+        },
+        "Swords Dance Lead": {
+          "moves": ["Swords Dance", "Body Slam", "Earthquake", "Fire Blast"]
+        },
+        "Swords Dance Sweeper": {
+          "moves": ["Swords Dance", "Earthquake", "Hyper Beam", "Fire Blast"]
+        }
+      },
+      "Blastoise": {
+        "Bulky Attacker": {
+          "moves": ["Surf", "Seismic Toss", "Counter", "Body Slam"]
+        }
+      },
+      "Raticate": {
+        "All-out Attacker": {
+          "moves": ["Hyper Beam", "Body Slam", "Bubble Beam", "Thunderbolt"]
+        }
+      },
+      "Fearow": {
+        "All-Out Attacker": {
+          "moves": ["Hyper Beam", "Double-Edge", "Drill Peck", "Agility"]
+        }
+      },
+      "Arbok": {
+        "Wrap": { "moves": ["Glare", "Wrap", "Earthquake", "Rock Slide"] }
+      },
+      "Sandslash": {
+        "Swords Dance": {
+          "moves": ["Swords Dance", "Earthquake", "Rock Slide", "Body Slam"]
+        }
+      },
+      "Nidoqueen": {
+        "All-Out Attacker": {
+          "moves": ["Earthquake", "Thunderbolt", "Rock Slide", "Blizzard"]
+        }
+      },
+      "Nidoking": {
+        "Mixed Attacker": {
+          "moves": ["Earthquake", "Thunderbolt", "Blizzard", "Rock Slide"]
+        }
+      },
+      "Wigglytuff": {
+        "Bulky Support": {
+          "moves": ["Thunder Wave", "Hyper Beam", "Seismic Toss", "Body Slam"]
+        }
+      },
+      "Venomoth": {
+        "Double Powder": {
+          "moves": ["Sleep Powder", "Stun Spore", "Psychic", "Double-Edge"]
+        }
+      },
+      "Golduck": {
+        "Amnesia": { "moves": ["Amnesia", "Surf", "Blizzard", "Counter"] }
+      },
+      "Primeape": {
+        "All-out Attacker": {
+          "moves": ["Submission", "Body Slam", "Rock Slide", "Hyper Beam"]
+        }
+      },
+      "Arcanine": {
+        "Defensive": {
+          "moves": ["Fire Blast", "Body Slam", "Hyper Beam", "Rest"]
+        }
+      },
+      "Poliwhirl": {
+        "Amnesia": {
+          "moves": ["Hypnosis", "Amnesia", "Hydro Pump", "Blizzard"]
+        },
+        "Offensive": {
+          "moves": ["Hypnosis", "Surf", "Blizzard", "Seismic Toss"]
+        }
+      },
+      "Poliwrath": {
+        "Amnesia": { "moves": ["Hypnosis", "Amnesia", "Surf", "Blizzard"] },
+        "Bulky Sleeper": {
+          "moves": ["Hypnosis", "Surf", "Blizzard", "Seismic Toss"]
+        }
+      },
+      "Abra": {
+        "Special Attacker": {
+          "moves": ["Psychic", "Thunder Wave", "Seismic Toss", "Counter"]
+        }
+      },
+      "Machamp": {
+        "All-Out Attacker": {
+          "moves": ["Submission", "Rock Slide", "Earthquake", "Body Slam"]
+        }
+      },
+      "Victreebel": {
+        "Support": {
+          "moves": ["Sleep Powder", "Stun Spore", "Razor Leaf", "Wrap"]
+        },
+        "Swords Dance Sleeper": {
+          "moves": ["Sleep Powder", "Swords Dance", "Hyper Beam", "Razor Leaf"]
+        }
+      },
+      "Rapidash": {
+        "Fire Spinner": {
+          "moves": ["Fire Spin", "Fire Blast", "Body Slam", "Hyper Beam"]
+        }
+      },
+      "Slowpoke": {
+        "Amnesia": { "moves": ["Amnesia", "Surf", "Thunder Wave", "Rest"] }
+      },
+      "Magneton": {
+        "Offensive": {
+          "moves": ["Thunder Wave", "Thunderbolt", "Thunder", "Rest"]
+        }
+      },
+      "Gastly": {
+        "Hypnosis": {
+          "moves": ["Hypnosis", "Thunderbolt", "Mega Drain", "Night Shade"]
+        }
+      },
+      "Drowzee": {
+        "Standard": {
+          "moves": ["Psychic", "Seismic Toss", "Thunder Wave", "Rest"]
+        }
+      },
+      "Kingler": {
+        "The Cringe Crab (Swords Dance)": {
+          "moves": ["Swords Dance", "Body Slam", "Hyper Beam", "Crabhammer"]
+        }
+      },
+      "Exeggcute": {
+        "Support": {
+          "moves": ["Sleep Powder", "Stun Spore", "Psychic", "Explosion"]
+        }
+      },
+      "Seadra": {
+        "Agility Sweeper": {
+          "moves": ["Surf", "Blizzard", "Hydro Pump", "Agility"]
+        }
+      },
+      "Mr. Mime": {
+        "Standard": {
+          "moves": ["Psychic", "Thunderbolt", "Seismic Toss", "Thunder Wave"]
+        }
+      },
+      "Scyther": {
+        "Double Dance": {
+          "moves": ["Swords Dance", "Slash", "Hyper Beam", "Agility"]
+        }
+      },
+      "Pinsir": {
+        "Swords Dance + Bind": {
+          "moves": ["Swords Dance", "Hyper Beam", "Slash", "Bind"]
+        }
+      },
+      "Porygon": {
+        "Standard": {
+          "moves": ["Thunderbolt", "Psychic", "Thunder Wave", "Recover"]
+        },
+        "Conversion": {
+          "moves": ["Conversion", "Ice Beam", "Thunder Wave", "Recover"]
+        }
+      },
+      "Kabutops": {
+        "Swords Dance": {
+          "moves": ["Slash", "Swords Dance", "Hyper Beam", "Surf"]
+        }
+      },
+      "Aerodactyl": {
+        "Offensive": {
+          "moves": ["Double-Edge", "Hyper Beam", "Fire Blast", "Sky Attack"]
+        },
+        "Defensive": { "moves": ["Double-Edge", "Fire Blast", "Toxic", "Rest"] }
+      },
+      "Moltres": {
+        "Offensive": {
+          "moves": ["Fire Blast", "Hyper Beam", "Fire Spin", "Agility"]
+        },
+        "Defensive": { "moves": ["Fire Blast", "Fire Spin", "Toxic", "Rest"] }
+      },
+      "Dragonair": {
+        "Wrap": { "moves": ["Wrap", "Thunder Wave", "Blizzard", "Thunderbolt"] }
+      }
+    },
+    "stats": {
+      "Weezing": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Explosion", "Sludge", "Fire Blast", "Thunderbolt"]
+        }
+      },
+      "Sandslash": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Rock Slide", "Swords Dance", "Body Slam"]
+        }
+      },
+      "Hitmonlee": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["High Jump Kick", "Body Slam", "Mega Kick", "Meditate"]
+        }
+      },
+      "Machamp": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Rock Slide", "Submission", "Hyper Beam"]
+        }
+      },
+      "Butterfree": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Sleep Powder", "Psychic", "Mega Drain", "Stun Spore"]
+        }
+      },
+      "Poliwhirl": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Amnesia", "Hypnosis", "Surf", "Psychic"]
+        }
+      },
+      "Parasect": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Spore", "Mega Drain", "Stun Spore", "Swords Dance"]
+        }
+      },
+      "Ditto": { "Showdown Usage": { "level": 100, "moves": ["Transform"] } },
+      "Magmar": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Confuse Ray", "Flamethrower", "Fire Blast", "Seismic Toss"]
+        }
+      },
+      "Raticate": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Super Fang", "Hyper Beam", "Body Slam", "Blizzard"]
+        }
+      },
+      "Arcanine": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Body Slam", "Hyper Beam", "Fire Blast", "Agility"]
+        }
+      },
+      "Blastoise": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Surf", "Rest", "Blizzard", "Body Slam"]
+        }
+      },
+      "Pinsir": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hyper Beam", "Swords Dance", "Submission", "Bind"]
+        }
+      },
+      "Beedrill": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Swords Dance", "Twineedle", "Hyper Beam", "Agility"]
+        }
+      },
+      "Fearow": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Drill Peck", "Hyper Beam", "Double-Edge", "Mirror Move"]
+        }
+      },
+      "Kabutops": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Surf", "Slash", "Hyper Beam", "Swords Dance"]
+        }
+      },
+      "Abra": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Thunder Wave", "Seismic Toss", "Reflect"]
+        }
+      },
+      "Arbok": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Glare", "Earthquake", "Wrap", "Body Slam"]
+        }
+      },
+      "Muk": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Sludge", "Explosion", "Acid Armor", "Body Slam"]
+        }
+      },
+      "Marowak": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Bonemerang", "Earthquake", "Body Slam", "Seismic Toss"]
+        }
+      },
+      "Wigglytuff": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Body Slam", "Thunder Wave", "Hyper Beam", "Seismic Toss"]
+        }
+      },
+      "Primeape": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Rock Slide", "Submission", "Hyper Beam", "Body Slam"]
+        }
+      },
+      "Scyther": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Swords Dance", "Slash", "Hyper Beam", "Agility"]
+        }
+      },
+      "Nidoqueen": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Blizzard", "Thunderbolt", "Body Slam"]
+        }
+      },
+      "Dragonair": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Wrap", "Hyper Beam", "Thunder Wave", "Thunderbolt"]
+        }
+      },
+      "Lickitung": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Body Slam", "Swords Dance", "Earthquake", "Hyper Beam"]
+        }
+      },
+      "Vileplume": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Sleep Powder", "Mega Drain", "Body Slam", "Hyper Beam"]
+        }
+      },
+      "Gastly": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Hypnosis", "Psychic", "Explosion"]
+        }
+      },
+      "Drowzee": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Thunder Wave", "Rest", "Seismic Toss"]
+        }
+      },
+      "Porygon": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Recover", "Thunder Wave", "Thunderbolt", "Blizzard"]
+        }
+      },
+      "Venomoth": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Sleep Powder", "Stun Spore", "Mega Drain"]
+        }
+      },
+      "Kingler": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Crabhammer", "Swords Dance", "Body Slam", "Hyper Beam"]
+        }
+      },
+      "Exeggcute": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Sleep Powder", "Stun Spore", "Explosion"]
+        }
+      },
+      "Rapidash": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Fire Spin", "Fire Blast", "Hyper Beam", "Body Slam"]
+        }
+      },
+      "Seadra": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Agility", "Blizzard", "Surf", "Hydro Pump"]
+        }
+      },
+      "Nidoking": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Blizzard", "Thunderbolt", "Rock Slide"]
+        }
+      },
+      "Moltres": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Fire Blast", "Fire Spin", "Hyper Beam", "Agility"]
+        }
+      },
+      "Flareon": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Fire Blast", "Hyper Beam", "Body Slam", "Fire Spin"]
+        }
+      },
+      "Charizard": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Fire Blast", "Fire Spin", "Slash"]
+        }
+      },
+      "Magneton": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunder Wave", "Thunderbolt", "Thunder", "Double-Edge"]
+        }
+      },
+      "Mr. Mime": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Thunder Wave", "Thunderbolt", "Seismic Toss"]
+        }
+      }
+    }
+  },
+  "gen1pu": {
+    "dex": {
+      "Beedrill": {
+        "Double Dance": {
+          "moves": ["Agility", "Swords Dance", "Twineedle", "Hyper Beam"]
+        }
+      },
+      "Butterfree": {
+        "Double Powder": {
+          "moves": ["Sleep Powder", "Stun Spore", "Psychic", "Mega Drain"]
+        }
+      },
+      "Pidgeot": {
+        "Standard": {
+          "moves": ["Double-Edge", "Hyper Beam", "Sky Attack", "Agility"]
+        }
+      },
+      "Fearow": {
+        "Offensive": {
+          "moves": ["Double-Edge", "Drill Peck", "Hyper Beam", "Agility"]
+        }
+      },
+      "Arbok": {
+        "Wrap": { "moves": ["Wrap", "Glare", "Earthquake", "Hyper Beam"] }
+      },
+      "Sandslash": {
+        "Swords Dance": {
+          "moves": ["Earthquake", "Rock Slide", "Swords Dance", "Substitute"]
+        }
+      },
+      "Nidoqueen": {
+        "The Queen": {
+          "moves": ["Earthquake", "Blizzard", "Thunderbolt", "Substitute"]
+        }
+      },
+      "Golbat": {
+        "Standard": {
+          "moves": ["Confuse Ray", "Screech", "Double-Edge", "Mega Drain"]
+        }
+      },
+      "Parasect": {
+        "Setup Sleeper": {
+          "moves": ["Spore", "Stun Spore", "Swords Dance", "Hyper Beam"]
+        }
+      },
+      "Vileplume": {
+        "Bulky Status Spreader": {
+          "moves": ["Sleep Powder", "Stun Spore", "Swords Dance", "Hyper Beam"]
+        }
+      },
+      "Primeape": {
+        "All-out Attacker": {
+          "moves": ["Submission", "Body Slam", "Hyper Beam", "Rock Slide"]
+        }
+      },
+      "Arcanine": {
+        "Bulky Attacker": {
+          "moves": ["Fire Blast", "Body Slam", "Hyper Beam", "Agility"]
+        }
+      },
+      "Poliwag": {
+        "Amnesia Sweeper": {
+          "moves": ["Hypnosis", "Amnesia", "Hydro Pump", "Psychic"]
+        }
+      },
+      "Abra": {
+        "Special Attacker": {
+          "moves": ["Psychic", "Seismic Toss", "Thunder Wave", "Substitute"]
+        }
+      },
+      "Machamp": {
+        "Bulky Attacker": {
+          "moves": ["Earthquake", "Body Slam", "Hyper Beam", "Submission"]
+        }
+      },
+      "Weepinbell": {
+        "Double Powder": {
+          "moves": ["Sleep Powder", "Stun Spore", "Wrap", "Razor Leaf"]
+        }
+      },
+      "Graveler": {
+        "Tank": {
+          "moves": ["Earthquake", "Rock Slide", "Counter", "Explosion"]
+        }
+      },
+      "Rapidash": {
+        "Offensive": {
+          "moves": ["Fire Blast", "Body Slam", "Hyper Beam", "Fire Spin"]
+        }
+      },
+      "Slowpoke": {
+        "Amnesia": { "moves": ["Thunder Wave", "Amnesia", "Psychic", "Surf"] }
+      },
+      "Magneton": {
+        "Special Attacker": {
+          "moves": ["Thunderbolt", "Double-Edge", "Thunder Wave", "Toxic"]
+        }
+      },
+      "Farfetch’d": {
+        "Double Dance": {
+          "moves": ["Slash", "Agility", "Swords Dance", "Body Slam"]
+        }
+      },
+      "Muk": {
+        "Mixed Attacker": {
+          "moves": ["Body Slam", "Thunderbolt", "Fire Blast", "Explosion"]
+        }
+      },
+      "Gastly": {
+        "Sleeper": {
+          "moves": ["Hypnosis", "Psychic", "Thunderbolt", "Explosion"]
+        }
+      },
+      "Onix": {
+        "Bind Pivot": { "moves": ["Bind", "Toxic", "Earthquake", "Explosion"] }
+      },
+      "Drowzee": {
+        "Bulky Support": {
+          "moves": ["Thunder Wave", "Psychic", "Hypnosis", "Seismic Toss"]
+        }
+      },
+      "Marowak": {
+        "Standard": {
+          "moves": ["Earthquake", "Body Slam", "Blizzard", "Fire Blast"]
+        }
+      },
+      "Hitmonlee": {
+        "Meditate Attacker": {
+          "moves": ["High Jump Kick", "Meditate", "Body Slam", "Seismic Toss"]
+        }
+      },
+      "Hitmonchan": {
+        "Agility... Sweeper?": {
+          "moves": ["Agility", "Submission", "Body Slam", "Counter"]
+        }
+      },
+      "Lickitung": {
+        "Swords Dance": {
+          "moves": ["Swords Dance", "Body Slam", "Hyper Beam", "Earthquake"]
+        }
+      },
+      "Weezing": {
+        "Mixed Attacker": {
+          "moves": ["Fire Blast", "Thunderbolt", "Hyper Beam", "Explosion"]
+        }
+      },
+      "Horsea": {
+        "Agility Sweeper": {
+          "moves": ["Surf", "Blizzard", "Agility", "Smokescreen"]
+        }
+      },
+      "Seaking": {
+        "Agility": { "moves": ["Surf", "Agility", "Hyper Beam", "Blizzard"] }
+      },
+      "Staryu": {
+        "Support": {
+          "moves": ["Thunder Wave", "Surf", "Thunderbolt", "Recover"]
+        }
+      },
+      "Scyther": {
+        "Swords Dance Sweeper": {
+          "moves": ["Swords Dance", "Hyper Beam", "Slash", "Wing Attack"]
+        }
+      },
+      "Magmar": {
+        "Swagmar": {
+          "moves": ["Fire Blast", "Body Slam", "Confuse Ray", "Counter"]
+        }
+      },
+      "Pinsir": {
+        "All-Out Attacker": {
+          "moves": ["Slash", "Submission", "Seismic Toss", "Bind"]
+        }
+      },
+      "Ditto": { "Transformer": { "moves": ["Transform"] } },
+      "Flareon": {
+        "Mixed Attacker": {
+          "moves": ["Fire Blast", "Body Slam", "Hyper Beam", "Fire Spin"]
+        }
+      },
+      "Porygon": {
+        "Agility": {
+          "moves": ["Agility", "Recover", "Psychic", "Thunder Wave"]
+        },
+        "Support": {
+          "moves": ["Thunder Wave", "Recover", "Psychic", "Thunderbolt"]
+        }
+      },
+      "Omanyte": {
+        "Standard": { "moves": ["Surf", "Blizzard", "Body Slam", "Rest"] }
+      },
+      "Dragonair": {
+        "Support": {
+          "moves": ["Thunder Wave", "Wrap", "Blizzard", "Thunderbolt"]
+        },
+        "AgiliWrap": { "moves": ["Agility", "Wrap", "Blizzard", "Thunderbolt"] }
+      }
+    },
+    "stats": {
+      "Pinsir": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Slash", "Submission", "Hyper Beam", "Seismic Toss"]
+        }
+      },
+      "Weezing": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Explosion", "Sludge", "Fire Blast"]
+        }
+      },
+      "Flareon": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hyper Beam", "Body Slam", "Fire Blast", "Fire Spin"]
+        }
+      },
+      "Slowpoke": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Amnesia", "Thunder Wave", "Psychic", "Surf"]
+        }
+      },
+      "Fearow": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Drill Peck", "Hyper Beam", "Double-Edge", "Agility"]
+        }
+      },
+      "Sandslash": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Swords Dance", "Rock Slide", "Body Slam"]
+        }
+      },
+      "Abra": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Thunder Wave", "Seismic Toss", "Substitute"]
+        }
+      },
+      "Arbok": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Wrap", "Glare", "Hyper Beam"]
+        }
+      },
+      "Seaking": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Surf", "Agility", "Hyper Beam", "Double-Edge"]
+        }
+      },
+      "Muk": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Explosion", "Body Slam", "Sludge", "Thunderbolt"]
+        }
+      },
+      "Machamp": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Hyper Beam", "Body Slam", "Submission"]
+        }
+      },
+      "Butterfree": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Sleep Powder", "Stun Spore", "Mega Drain"]
+        }
+      },
+      "Omanyte": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Rest", "Blizzard", "Surf", "Body Slam"]
+        }
+      },
+      "Onix": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Explosion", "Earthquake", "Rock Slide", "Bind"]
+        }
+      },
+      "Gastly": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hypnosis", "Psychic", "Thunderbolt", "Explosion"]
+        }
+      },
+      "Drowzee": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Thunder Wave", "Hypnosis", "Seismic Toss"]
+        }
+      },
+      "Graveler": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Rock Slide", "Explosion", "Body Slam"]
+        }
+      },
+      "Dragonair": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Blizzard", "Thunder Wave", "Wrap", "Thunderbolt"]
+        }
+      },
+      "Lickitung": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Swords Dance", "Earthquake", "Body Slam", "Hyper Beam"]
+        }
+      },
+      "Hitmonlee": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["High Jump Kick", "Body Slam", "Seismic Toss", "Substitute"]
+        }
+      },
+      "Porygon": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Recover", "Thunder Wave", "Blizzard", "Thunderbolt"]
+        }
+      },
+      "Poliwag": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Amnesia", "Hypnosis", "Surf", "Blizzard"]
+        }
+      },
+      "Parasect": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Spore", "Mega Drain", "Stun Spore", "Body Slam"]
+        }
+      },
+      "Primeape": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Rock Slide", "Body Slam", "Submission", "Thunderbolt"]
+        }
+      },
+      "Pidgeot": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hyper Beam", "Double-Edge", "Agility", "Quick Attack"]
+        }
+      },
+      "Magmar": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Fire Blast", "Confuse Ray", "Body Slam", "Psychic"]
+        }
+      },
+      "Vileplume": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Sleep Powder", "Body Slam", "Mega Drain", "Stun Spore"]
+        }
+      },
+      "Rapidash": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Fire Blast", "Body Slam", "Hyper Beam", "Fire Spin"]
+        }
+      },
+      "Nidoqueen": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Blizzard", "Thunderbolt", "Fire Blast"]
+        }
+      },
+      "Magneton": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Thunder Wave", "Hyper Beam", "Reflect"]
+        }
+      },
+      "Scyther": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Swords Dance", "Hyper Beam", "Slash", "Wing Attack"]
+        }
+      },
+      "Arcanine": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Body Slam", "Fire Blast", "Hyper Beam", "Agility"]
+        }
+      },
+      "Staryu": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunder Wave", "Surf", "Thunderbolt", "Recover"]
+        }
+      }
+    }
+  },
+  "gen11v1": {
+    "dex": {
+      "Venusaur": {
+        "SubSeed": {
+          "moves": ["Razor Leaf", "Toxic", "Leech Seed", "Substitute"]
+        }
+      },
+      "Persian": {
+        "Slash": { "moves": ["Slash", "Hyper Beam", "Thunderbolt", "Screech"] }
+      },
+      "Golduck": {
+        "Amnesia Attacker": {
+          "moves": ["Ice Beam", "Blizzard", "Amnesia", "Rest"]
+        }
+      },
+      "Primeape": {
+        "Physical Attacker": {
+          "moves": ["Submission", "Screech", "Rock Slide", "Rest"]
+        }
+      },
+      "Poliwrath": {
+        "Mixed Attacker": {
+          "moves": ["Blizzard", "Amnesia", "Submission", "Rest"]
+        }
+      },
+      "Alakazam": {
+        "Psychic Stallbreaker": {
+          "moves": ["Psychic", "Toxic", "Recover", "Substitute"]
+        }
+      },
+      "Machamp": {
+        "All-Out Attacker": {
+          "moves": ["Submission", "Hyper Beam", "Earthquake", "Rock Slide"]
+        }
+      },
+      "Golem": {
+        "Rest 3 Attacks": {
+          "moves": ["Earthquake", "Rock Slide", "Body Slam", "Rest"]
+        }
+      },
+      "Slowbro": {
+        "Stall": { "moves": ["Ice Beam", "Amnesia", "Rest", "Counter"] }
+      },
+      "Cloyster": {
+        "Standard": { "moves": ["Blizzard", "Surf", "Toxic", "Rest"] }
+      },
+      "Gengar": {
+        "Rest": { "moves": ["Thunderbolt", "Psychic", "Rest", "Substitute"] }
+      },
+      "Electrode": {
+        "Screech + Hyper Beam": {
+          "moves": ["Thunderbolt", "Hyper Beam", "Screech", "Rest"]
+        }
+      },
+      "Exeggutor": {
+        "SubSeed": { "moves": ["Psychic", "Toxic", "Leech Seed", "Substitute"] }
+      },
+      "Hitmonlee": {
+        "Offensive": {
+          "moves": ["High Jump Kick", "Jump Kick", "Rolling Kick", "Meditate"]
+        }
+      },
+      "Rhydon": {
+        "Standard": {
+          "moves": ["Earthquake", "Rock Slide", "Body Slam", "Bubble Beam"]
+        }
+      },
+      "Chansey": {
+        "The Egg": {
+          "moves": ["Ice Beam", "Soft-Boiled", "Thunder Wave", "Reflect"]
+        }
+      },
+      "Starmie": {
+        "Psychic Stall": {
+          "moves": ["Psychic", "Ice Beam", "Recover", "Reflect"]
+        }
+      },
+      "Jynx": {
+        "Special Attacker": {
+          "moves": ["Ice Beam", "Psychic", "Blizzard", "Rest"]
+        }
+      },
+      "Electabuzz": {
+        "Mixed Attacker": {
+          "moves": ["Thunderbolt", "Screech", "Body Slam", "Hyper Beam"]
+        }
+      },
+      "Tauros": {
+        "The Bull": {
+          "moves": ["Hyper Beam", "Body Slam", "Earthquake", "Fire Blast"]
+        }
+      },
+      "Lapras": {
+        "Special Attacker": {
+          "moves": ["Ice Beam", "Thunderbolt", "Reflect", "Rest"]
+        }
+      },
+      "Jolteon": {
+        "Critical Attacker": {
+          "moves": ["Thunderbolt", "Pin Missile", "Toxic", "Rest"]
+        }
+      },
+      "Snorlax": {
+        "Amnesia Attacker": {
+          "moves": ["Body Slam", "Hyper Beam", "Amnesia", "Ice Beam"]
+        }
+      },
+      "Articuno": {
+        "Reflect + Rest": {
+          "moves": ["Ice Beam", "Blizzard", "Rest", "Reflect"]
+        }
+      },
+      "Zapdos": {
+        "Mixed Attacker": {
+          "moves": ["Thunderbolt", "Drill Peck", "Thunder", "Reflect"]
+        }
+      },
+      "Moltres": {
+        "Mixed Attacker": {
+          "moves": ["Fire Blast", "Toxic", "Rest", "Reflect"]
+        }
+      }
+    },
+    "stats": {
+      "Exeggutor": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Leech Seed", "Toxic", "Psychic", "Substitute"]
+        }
+      },
+      "Snorlax": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Rest", "Amnesia", "Body Slam", "Hyper Beam"]
+        }
+      },
+      "Machamp": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Submission", "Hyper Beam", "Counter", "Earthquake"]
+        }
+      },
+      "Rhydon": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Rock Slide", "Body Slam", "Counter"]
+        }
+      },
+      "Lapras": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Confuse Ray", "Blizzard", "Toxic"]
+        }
+      },
+      "Slowbro": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Amnesia", "Rest", "Thunder Wave", "Surf"]
+        }
+      },
+      "Articuno": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Blizzard", "Rest", "Hyper Beam", "Toxic"]
+        }
+      },
+      "Blastoise": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hydro Pump", "Earthquake", "Ice Beam", "Surf"]
+        }
+      },
+      "Golem": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Earthquake", "Rock Slide", "Counter", "Hyper Beam"]
+        }
+      },
+      "Cloyster": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Hyper Beam", "Blizzard", "Reflect", "Surf"]
+        }
+      },
+      "Tauros": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Body Slam", "Hyper Beam", "Blizzard", "Earthquake"]
+        }
+      },
+      "Chansey": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Soft-Boiled", "Ice Beam", "Thunder Wave", "Thunderbolt"]
+        }
+      },
+      "Jolteon": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Thunder Wave", "Pin Missile", "Rest"]
+        }
+      },
+      "Venusaur": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Razor Leaf", "Body Slam", "Mega Drain", "Hyper Beam"]
+        }
+      },
+      "Alakazam": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Psychic", "Recover", "Thunder Wave", "Reflect"]
+        }
+      },
+      "Dragonite": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Ice Beam", "Thunderbolt", "Hyper Beam", "Fire Blast"]
+        }
+      },
+      "Vaporeon": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Acid Armor", "Surf", "Ice Beam", "Haze"]
+        }
+      },
+      "Victreebel": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Razor Leaf", "Swords Dance", "Hyper Beam", "Stun Spore"]
+        }
+      },
+      "Gengar": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Confuse Ray", "Psychic", "Night Shade"]
+        }
+      },
+      "Persian": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Slash", "Hyper Beam", "Thunderbolt", "Bubble Beam"]
+        }
+      },
+      "Zapdos": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Drill Peck", "Reflect", "Thunder Wave"]
+        }
+      },
+      "Electrode": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Thunderbolt", "Reflect", "Rest", "Light Screen"]
+        }
+      },
+      "Moltres": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Fire Blast", "Hyper Beam", "Reflect", "Rest"]
+        }
+      },
+      "Charizard": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Fire Blast", "Earthquake", "Flamethrower", "Hyper Beam"]
+        }
+      },
+      "Starmie": {
+        "Showdown Usage": {
+          "level": 100,
+          "moves": ["Recover", "Psychic", "Blizzard", "Thunder Wave"]
+        }
+      }
+    }
+  }
+}
