@@ -1,21 +1,30 @@
-delete_db_query = """
+
+# DELETE
+DELETE_DB_QUERY = """
 MATCH (n)
 DETACH DELETE n
 """
 
-QUERY_POKEMON_BY_GENERATION = """
-MATCH (p:Pokemon)-[:IS_FROM_GENERATION]->(g:Generation {number: $generation})
+
+# QUERIES
+QUERY_ALL_POKEMON = """
+MATCH (p:Pokemon)
 RETURN p
 """
 
-QUERY_POKEMON_BY_HEIGHT = """
+QUERY_POKEMON_BY_NUMBER = """
+MATCH (p: Pokemon {num: $num})
+RETURN p
+"""
+
+QUERY_POKEMON_BY_WEIGHT = """
 MATCH (p:Pokemon)
-WHERE p.heightm >= $min_height AND p.heightm <= $max_height
+WHERE p.weightkg >= $min_weight AND p.weightkg <= $max_weight
 RETURN p
 """
 
 QUERY_POKEMON_BY_TYPE = """
-MATCH (p:Pokemon)-[:IS_OF_TYPE]->(t:Type {name: $type})
+MATCH (p:Pokemon)-[:IS_TYPE]->(t:Type {name: $type})
 RETURN p
 """
 
@@ -29,18 +38,50 @@ MATCH (p:Pokemon-[HAS_MOVE]->(m:Move {name: $move}))
 return p
 """
 
+QUERY_POKEMON_TYPES = """
+MATCH (p:Pokemon {name: $name})-[:IS_TYPE]->(t:Type)
+RETURN t
+"""
+
+QUERY_TYPES_EFFECTIVITY = """
+MATCH (t1:Type {name: $type1}), (t2:Type {name: $type2})
+MATCH (t1)-[r:EFFECTIVITY]->(t2)
+RETURN r.damage AS damage
+"""
+
 QUERY_POKEMON_BY_NAME = """
 MATCH (p:Pokemon)
-WHERE p.name == $name
+WHERE p.name = $name
 RETURN p
 """
 
+QUERY_ALL_TYPES = """
+MATCH (t:Type)
+RETURN t
+"""
+
+QUERY_ALL_ABILITIES_ASOCIATED_TO_POKEMONS = """
+MATCH (p:Pokemon)-[:HAS_ABILITY]->(a:Ability)
+RETURN DISTINCT a
+"""
+
+QUERY_POKEMON_MOVE = """
+MATCH (p:Pokemon {name: $name})-[HAS_MOVE]->(m:Move)
+RETURN m
+"""
+
+QUERY_MOVE_TYPE = """
+MATCH (m:Move {name: $name})-[:IS_TYPE]->(t:Type)
+RETURN t
+"""
+
+
+# INSERTS
 INSERT_POKEMON = """
 CREATE (p:Pokemon 
     {
         name: $name, 
         num: $num, 
-        gen: $gen,
         heightm: $heightm, 
         weightkg: $weightkg,
         hp: $hp,

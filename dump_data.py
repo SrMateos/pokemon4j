@@ -6,11 +6,13 @@ import random
 from queries import *
 from utils import exec_query
 
+def clear_db():
+    exec_query(DELETE_DB_QUERY, {})
+
 def createPokemon(pokemon):
     return {
         "name": pokemon["name"],
         "num": pokemon["num"],
-        "gen": pokemon["gen"],
         "heightm": pokemon["heightm"],
         "weightkg": pokemon["weightkg"],
         "hp": pokemon["baseStats"]["hp"],
@@ -80,8 +82,9 @@ def dump_data():
                 # Pokemons
                 for pokemon in pokedex_data:
                     if pokedex_data[pokemon]["num"] > 0 and "-" not in pokedex_data[pokemon]["name"]:
+                        print(f"Dumping {pokedex_data[pokemon]["num"]}: {pokedex_data[pokemon]['name']}")
                         exec_query(INSERT_POKEMON, createPokemon(pokedex_data[pokemon]))
-
+                        
                         # Relation pokemon with types
                         for type in pokedex_data[pokemon]["types"]:
                             exec_query(INSERT_POKEMON_TYPE, {"pokemon": pokedex_data[pokemon]["name"], "type": type})
@@ -90,10 +93,14 @@ def dump_data():
                         for ability in pokedex_data[pokemon]["abilities"].values():
                             exec_query(INSERT_POKEMON_ABILITY, {"pokemon": pokedex_data[pokemon]["name"], "ability": ability.lower()})
 
-                        # Take random move 
+                        # Take random move wich is either Physical or Special
                         random_move = moves_data[random.choice(list(learnset_data[pokemon]["learnset"]))]
+                        print(f"Random move: {random_move}")
+                        
+                        # Create move if is special or physical, else, use tackle
+                        if random_move["category"] == "Physical" or random_move["category"] == "Special":
+                            random_move = moves_data['tackle']
 
-                        # Create move
                         exec_query(INSERT_MOVE, createMove(random_move))
 
                         # Relation pokemon with move
