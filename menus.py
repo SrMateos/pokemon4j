@@ -15,4 +15,5 @@ Please indicate the filter you want to use:
     1. Type
     2. Ability
     3. Weight
+    4. Generation
 """

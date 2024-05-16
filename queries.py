@@ -5,11 +5,17 @@ MATCH (n)
 DETACH DELETE n
 """
 
+DELETE_MOVE = """
+MATCH (m:Move {name: $name})
+DETACH DELETE m
+"""
+
 
 # QUERIES
 QUERY_ALL_POKEMON = """
 MATCH (p:Pokemon)
 RETURN p
+ORDER BY p.num
 """
 
 QUERY_POKEMON_BY_NUMBER = """
@@ -31,6 +37,7 @@ RETURN p
 QUERY_POKEMON_BY_GENERATION = """
 MATCH (p:Pokemon)-[:BELONGS_TO]->(g:Generation {generation: $gen})
 RETURN p
+ORDER BY p.num
 """
 
 QUERY_POKEMON_BY_ABILITY = """
@@ -39,7 +46,7 @@ return p
 """
 
 QUERY_POKEMON_BY_MOVE = """
-MATCH (p:Pokemon-[HAS_MOVE]->(m:Move {name: $move}))
+MATCH (p:Pokemon-[:KNOWS]->(m:Move {name: $move}))
 return p
 """
 
@@ -65,13 +72,28 @@ MATCH (t:Type)
 RETURN t
 """
 
+QUERY_ALL_MOVES = """
+MATCH (m:Move)
+RETURN m
+"""
+
 QUERY_ALL_ABILITIES_ASOCIATED_TO_POKEMONS = """
 MATCH (p:Pokemon)-[:HAS_ABILITY]->(a:Ability)
 RETURN DISTINCT a
 """
 
 QUERY_POKEMON_MOVE = """
-MATCH (p:Pokemon {name: $name})-[HAS_MOVE]->(m:Move)
+MATCH (p:Pokemon {name: $name})-[:KNOWS]->(m:Move)
+RETURN m
+"""
+
+QUERY_POKEMON_MOVE_BY_NUM = """
+MATCH (p:Pokemon {num: $num})-[:KNOWS]->(m:Move)
+RETURN m
+"""
+
+QUERY_MOVE_BY_NAME = """
+MATCH(m: Move {name: $name})
 RETURN m
 """
 
@@ -90,6 +112,29 @@ MATCH (p:Pokemon {name: $name})-[:BELONGS_TO]->(g:Generation)
 RETURN p
 """
 
+QUERY_MOVE_BY_NAME = """
+MATCH (m:Move {name: $name})
+RETURN m
+"""
+
+
+# UPDATE
+UPDATE_MOVEMENT = """
+MATCH (m: Move {name: $name})
+SET m.name = $new_name, m.accuracy = $accuracy,
+m.basePower = $basePower, m.pp = $pp,
+m.category = $category, m.description = $description
+RETURN m
+"""
+
+UPDATE_POKEMON_MOVE = """
+MATCH (p: Pokemon {num: $num})-[r:KNOWS]->(m1: Move)
+MATCH (m2: Move {name: $newMove})
+WHERE EXISTS((p)-[:KNOWS]->(m1))
+DELETE r
+CREATE (p)-[:KNOWS]->(m2)
+"""
+
 # INSERTS
 INSERT_POKEMON = """
 CREATE (p:Pokemon 
@@ -104,13 +149,19 @@ CREATE (p:Pokemon
         spa: $spa,
         spd: $spd,
         spe: $spe,
-        legendary: $legendary
+        legendary: $legendary,
+        final_evolution: $final_evolution
     }
 )
 """
 
 INSERT_ABILITY = """
 CREATE (a:Ability {name: $name, description: $description})
+"""
+
+INSERT_ABILITY_IF_NOT_EXISTS = """
+MERGE (a:Ability {name: $name})
+ON CREATE SET a.description = $description
 """
 
 INSERT_TYPE = """

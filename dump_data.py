@@ -22,7 +22,8 @@ def createPokemon(pokemon):
         "spa": pokemon["baseStats"]["spa"],
         "spd": pokemon["baseStats"]["spd"],
         "spe": pokemon["baseStats"]["spe"],
-        "legendary": len(pokemon["tags"]) > 0 if "tags" in pokemon else False
+        "legendary": len(pokemon["tags"]) > 0 if "tags" in pokemon else False,
+        "final_evolution": True if "evos" not in pokemon else False
     } 
 
 def createMove(move):
@@ -132,6 +133,8 @@ def dump_data():
 
                         # Relation pokemon with abilities
                         for ability in pokedex_data[pokemon]["abilities"].values():
+                            # Create ability if not exists
+                            exec_query(INSERT_ABILITY_IF_NOT_EXISTS, {"name": ability.lower(), "description":"No description available"}) 
                             exec_query(INSERT_POKEMON_ABILITY, {"pokemon": pokedex_data[pokemon]["name"], "ability": ability.lower()})
 
                         # Take random move wich is either Physical or Special

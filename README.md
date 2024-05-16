@@ -1,3 +1,2 @@
 # Pokedex4j
-## Queries complejas:
-Pokemon similares (mismo tipo y abilidad)
+Pokemon4j es un proyecto para aprender sobre bases de datos NoSQL, en este caso Neo4j, y sobre minería de datos, en este caso haciendo una regresión lineal sobre estadísticas de pokemon y un clustering con KMeans.
