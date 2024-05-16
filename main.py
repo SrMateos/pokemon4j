@@ -63,6 +63,12 @@ def compare_stats(pokemon_list):
     ax.legend()
     plt.show()
 
+def compare_habilities(pokemon_list):
+    print("Comparing abilities")
+    # print the short description of the abilities of the pokemons
+    for pokemon in pokemon_list:
+        record, summary, keys = exec_query(QUERY_ABILITY_BY_POKEMON, {"name": pokemon["name"]})
+        print(f'{pokemon["name"]} has the ability {record[0].data()["a"]["name"]} that {record[0].data()["a"]["description"]}')
 
 def main():
     dump = input("Do you want to dump the data?(y/n)")
@@ -135,6 +141,8 @@ def main():
             compare_stats(pokemon_list)
         elif method == '2':
             attack_defense_simulation(pokemon_list)
+        elif method == '3':
+            compare_habilities(pokemon_list)
         elif method == '0':
             print("Goodbye!")
         else:

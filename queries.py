@@ -75,6 +75,11 @@ MATCH (m:Move {name: $name})-[:IS_TYPE]->(t:Type)
 RETURN t
 """
 
+QUERY_ABILITY_BY_POKEMON = """
+MATCH (p:Pokemon {name: $name})-[:HAS_ABILITY]->(a:Ability)
+RETURN a
+"""
+
 
 # INSERTS
 INSERT_POKEMON = """
