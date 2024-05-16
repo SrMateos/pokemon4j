@@ -10,6 +10,7 @@ def clear_db():
     exec_query(DELETE_DB_QUERY, {})
 
 def createPokemon(pokemon):
+    # if pokemon["tags"] exists and is not empty, then it is a legendary pokemon
     return {
         "name": pokemon["name"],
         "num": pokemon["num"],
@@ -20,7 +21,8 @@ def createPokemon(pokemon):
         "def": pokemon["baseStats"]["def"],
         "spa": pokemon["baseStats"]["spa"],
         "spd": pokemon["baseStats"]["spd"],
-        "spe": pokemon["baseStats"]["spe"]
+        "spe": pokemon["baseStats"]["spe"],
+        "legendary": len(pokemon["tags"]) > 0 if "tags" in pokemon else False
     } 
 
 def createMove(move):
@@ -59,14 +61,53 @@ def dump_types_chart():
         for type2 in types_chart[type1]:
             exec_query(INSERT_TYPE_CHART, {"type1": type1, "type2": type2, "damage": types_chart[type1][type2]})                      
 
+# Create a function to determine in which generation a pokemon is base on its number
+def get_generation(num):
+    """
+    # Pokemon per generation:
+    # 1: 151
+    # 2: 100
+    # 3: 135
+    # 4: 107
+    # 5: 156
+    # 6: 72
+    # 7: 88
+    # 8: 96
+    # 9: 120
+    # total: 1025
+    """
+
+    if num <= 151:
+        return 1
+    elif num <= 251:
+        return 2
+    elif num <= 386:
+        return 3
+    elif num <= 493:
+        return 4
+    elif num <= 649:
+        return 5
+    elif num <= 721:
+        return 6
+    elif num <= 809:
+        return 7
+    elif num <= 905:
+        return 8
+    else:
+        return 9
 
 def dump_data():
+    # Dump generations
+    for i in range(1, 10):
+        exec_query(INSERT_GENERATION, {"gen": i})
+
     # Dump abilities
     with open('abilities.json5') as abilities:
         abilities_data = json5.load(abilities)
         for ability in abilities_data:
             exec_query(INSERT_ABILITY, {"name": ability, "description": abilities_data[ability]["shortDesc"]})
 
+    # Dump types, pokemons, moves and relations
     with open('pokedex.json') as pokedex:
         with open('learnsets.json') as learnset:
             with open('moves.json') as moves:    
@@ -95,7 +136,6 @@ def dump_data():
 
                         # Take random move wich is either Physical or Special
                         random_move = moves_data[random.choice(list(learnset_data[pokemon]["learnset"]))]
-                        print(f"Random move: {random_move}")
                         
                         # Create move if is special or physical, else, use tackle
                         if random_move["category"] == "Physical" or random_move["category"] == "Special":
@@ -108,5 +148,8 @@ def dump_data():
 
                         # Relation move with type
                         exec_query(INSERT_MOVES_TYPE, {"move": random_move["name"], "type": random_move["type"]}) 
-    
+
+                        # Relation pokemon with generation
+                        exec_query(INSERT_POKEMON_GENERATION, {"pokemon": pokedex_data[pokemon]["name"], "gen": get_generation(pokedex_data[pokemon]["num"])})
+
     dump_types_chart()

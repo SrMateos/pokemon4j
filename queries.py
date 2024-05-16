@@ -28,6 +28,11 @@ MATCH (p:Pokemon)-[:IS_TYPE]->(t:Type {name: $type})
 RETURN p
 """
 
+QUERY_POKEMON_BY_GENERATION = """
+MATCH (p:Pokemon)-[:BELONGS_TO]->(g:Generation {generation: $gen})
+RETURN p
+"""
+
 QUERY_POKEMON_BY_ABILITY = """
 MATCH (p:Pokemon)-[:HAS_ABILITY]->(a:Ability {name: $ability})
 return p
@@ -80,6 +85,10 @@ MATCH (p:Pokemon {name: $name})-[:HAS_ABILITY]->(a:Ability)
 RETURN a
 """
 
+QUERY_BY_POKEMON_GENERATION = """
+MATCH (p:Pokemon {name: $name})-[:BELONGS_TO]->(g:Generation)
+RETURN p
+"""
 
 # INSERTS
 INSERT_POKEMON = """
@@ -94,7 +103,8 @@ CREATE (p:Pokemon
         def: $def,
         spa: $spa,
         spd: $spd,
-        spe: $spe
+        spe: $spe,
+        legendary: $legendary
     }
 )
 """
@@ -107,9 +117,18 @@ INSERT_TYPE = """
 CREATE (t:Type {name: $name})
 """
 
+INSERT_GENERATION = """
+CREATE (g:Generation {generation: $gen})
+"""
+
 INSERT_POKEMON_TYPE = """
 MATCH (p:Pokemon {name: $pokemon}), (t:Type {name: $type})
 CREATE (p)-[:IS_TYPE]->(t)
+"""
+
+INSERT_POKEMON_GENERATION = """
+MATCH (p: Pokemon {name: $pokemon}), (g:Generation {generation: $gen})
+CREATE (p)-[:BELONGS_TO]->(g)
 """
 
 INSERT_POKEMON_ABILITY = """
