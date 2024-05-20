@@ -156,3 +156,9 @@ def dump_data():
                         exec_query(INSERT_POKEMON_GENERATION, {"pokemon": pokedex_data[pokemon]["name"], "gen": get_generation(pokedex_data[pokemon]["num"])})
 
     dump_types_chart()
+
+
+if __name__ == "__main__":
+    clear_db()
+    dump_data()
+    print("Data dumped successfully")
